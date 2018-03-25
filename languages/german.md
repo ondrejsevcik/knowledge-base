@@ -8,3 +8,20 @@
 - [bs.to](https://bs.to) - TV Shows dubbed in german
 - [streamit.ws](https://www.streamit.ws) - Movies dubbed in german
 - [deutsch.lingolia.com/en](https://deutsch.lingolia.com/en) - So far the best grammar overview site
+
+## DER x DIE x DAS
+
+- DER
+  - 🔥 fire
+  - 💥 explosion
+  - 🎆 fireworks
+  
+- DIE
+  - ❄️ frozen
+  - ⛄️ snow
+  - 🍦 ice (cream)
+  
+- DAS
+  - 💦 water
+  - 🏊 swim
+  - ☔️ rain
