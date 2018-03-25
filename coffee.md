@@ -1,6 +1,6 @@
 # Coffee ☕️
 
-- it's a **fruit** 🍒like a cherry, but we care about it's pip more than about cherry
+- it's a **fruit** 🍒like a cherry, but we care about it's bean more than about cherry
 - types
   - Arabica - soft, sour, fruity, healtier
   - Robusta - cheaper, lower quality, bitter
