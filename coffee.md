@@ -6,6 +6,9 @@
   - Robusta - cheaper, lower quality, bitter
 - **Cascara** coffee cherry tea `1kg = 1000kc = 40€`
 
+## `Coffee` vs `café`
+
+> Local **cafe** serves fantastic **coffee**
 
 ## Preparation
 
