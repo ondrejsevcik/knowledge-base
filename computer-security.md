@@ -9,10 +9,13 @@
     - 1 Password
     - LastPass
   - Use Two-factor authentication (2FA)
+  - Don't use browser password manager
+    - No security - easy to get data
 - Make an offline backup
   - No guarantee your `Google/FB/Instagram/...` account will be there tomorrow 
 - Update your software
 - Encrypt your Computer/Phone
+  - Having password to enter your account doesn't mean the data are encrypted
 - Email
   - Choose provider carefully
     - Your ID to the internet -> almost every service pw can be restored through email
