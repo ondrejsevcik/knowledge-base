@@ -48,3 +48,5 @@
   - iOS security bugs
   - ...
 
+> Facebook scraped call, text message data for years from Android phones
+> - https://arstechnica.com/information-technology/2018/03/facebook-scraped-call-text-message-data-for-years-from-android-phones/
