@@ -29,6 +29,9 @@
   - Facebook
   - Instagram
   - ...
+- Browsers
+  - Be careful about extensions - usually they can access everything
+  - use adblock?
 - Difference between being secure against `hackers` and against `goverment`
 - Don't use Windows OS
 - Scams
