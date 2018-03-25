@@ -40,6 +40,11 @@
     - Your phone/laptop will conect to it automatically when in reach. Hacker can get list of open wifi out of your phone (it's broadcasted)
     - MITM attack
 - Add some numbers
-  - # Computers hacked
+  - Computers hacked
+  - DDOS attacks
+  - Data breaches
+  - Companyies hacked in last 10 years
+  - Android security bugs
+  - iOS security bugs
   - ...
-  
+
