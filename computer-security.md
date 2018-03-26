@@ -35,6 +35,7 @@
   - beaware of 3rd party apps
     - How Cambridge Analytica Collected 50 Million Facebook Users' Data 
     - https://thehackernews.com/2018/03/facebook-cambridge-analytica.html
+  - in case of FB, it's your friends who might leak your data. FB by default allows sharing your and your friend's data :(
 - Browsers
   - Be careful about extensions - usually they can access everything
   - use adblock?
