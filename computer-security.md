@@ -32,12 +32,18 @@
   - Facebook
   - Instagram
   - ...
+  - beaware of 3rd party apps
+    - How Cambridge Analytica Collected 50 Million Facebook Users' Data 
+    - https://thehackernews.com/2018/03/facebook-cambridge-analytica.html
 - Browsers
   - Be careful about extensions - usually they can access everything
   - use adblock?
+- Your ISP may spy on you
 - Difference between being secure against `hackers` and against `goverment`
 - Don't use Windows OS
-- Scams
+- Scams/Phishing
+  - Domains with the "same" characters
+  - IDN attack - https://www.wordfence.com/blog/2017/04/chrome-firefox-unicode-phishing/
 - Less software you use the better
 - Lock your computer screen
 - Social engineering tricks
@@ -53,6 +59,9 @@
   - Android security bugs
   - iOS security bugs
   - ...
+- VPN
+  - What is it?
+  - When is it useful?
 
 > Facebook scraped call, text message data for years from Android phones
 > - https://arstechnica.com/information-technology/2018/03/facebook-scraped-call-text-message-data-for-years-from-android-phones/
