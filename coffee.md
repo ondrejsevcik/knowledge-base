@@ -1,10 +1,10 @@
 # Coffee ☕️
 
-- it's a **fruit** 🍒like a cherry, but we care about it's bean more than about cherry
+- it's a **fruit** 🍒like a cherry, but we care about bean more than about cherry
 - types
   - Arabica 
-    - soft, sour, fruity, healtier
-    - grows in high atitude (600m and up)
+    - soft, sour, fruity, healthier
+    - grows in high altitude (600m and up)
     - 80% of world production
   - Robusta 
     - cheaper, lower quality, bitter
@@ -14,7 +14,7 @@
 
 ## Harvest
 
-- `Dry` or also know as `Natural` - on african "bed", 3-5 weeks
+- `Dry` or also know as `Natural` - on African "bed", 3-5 weeks
 - `Pulped-natural`
 - `Washed` or `wet` - most popular, requires a lot of water obviously
 
@@ -29,7 +29,7 @@
 - opened bag consume in `one week`
 - coffee in grinder should be consumed in `two hours`
 - grinded coffee consume `immediately`
-- in room temperature
+- at room temperature
 
 # Espresso
 
@@ -54,8 +54,8 @@
 
 ## Is Coffee healthy? 
 
-This 2017 meta-study of 201 other studies concludes
-> Coffee consumption seems **generally safe within usual levels of intake**, with summary estimates indicating largest risk reduction for various health outcomes at **three to four cups a day**, and **more likely to benefit health than harm**. Robust randomised controlled trials are needed to understand whether the observed associations are causal. Importantly, outside of pregnancy, existing evidence suggests that coffee could be tested as an intervention without significant risk of causing harm. Women at increased risk of fracture should possibly be excluded.
+This 2017 meta-study of 201 other studies conclude
+> Coffee consumption seems **generally safe within usual levels of intake**, with summary estimates indicating largest risk reduction for various health outcomes at **three to four cups a day**, and **more likely to benefit health than harm**. Robust randomized controlled trials are needed to understand whether the observed associations are causal. Importantly, outside of pregnancy, existing evidence suggests that coffee could be tested as an intervention without significant risk of causing harm. Women at increased risk of fracture should possibly be excluded.
 > - http://www.bmj.com/content/359/bmj.j5024
 
-In other words - if you drink coffee (without shugar or milk), drink max 3 cups per day. If you don't, there is no need to start with drinking it. 
+In other words - if you drink coffee (without sugar or milk), drink max 3 cups per day. If you don't, there is no need to start with drinking it. 
