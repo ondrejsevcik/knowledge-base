@@ -22,3 +22,5 @@
 - No serverside rendering
 - Sometimes code is unecessary long
   - `let in` tends to spread across a lot of lines
+- Acceptance testing
+  - External tools are required (most likely JS tools)
