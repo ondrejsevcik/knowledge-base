@@ -31,6 +31,16 @@
 - grinded coffee consume `immediately`
 - in room temperature
 
+# Espresso
+
+- `88-93℃` temperature
+- `9 bar` pressure
+- `25-35ml` of water
+- `8-10g` of coffee (depends on a type)
+- `20-30s` time (depends on a graining)
+  - coarse-grained - water goes through it faster
+  - fine-grained - water goes slowly
+
 ## `Coffee` vs `café`
 
 > Local **cafe** serves fantastic **coffee**
