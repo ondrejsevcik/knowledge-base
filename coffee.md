@@ -2,9 +2,34 @@
 
 - it's a **fruit** 🍒like a cherry, but we care about it's bean more than about cherry
 - types
-  - Arabica - soft, sour, fruity, healtier
-  - Robusta - cheaper, lower quality, bitter
+  - Arabica 
+    - soft, sour, fruity, healtier
+    - grows in high atitude (600m and up)
+    - 80% of world production
+  - Robusta 
+    - cheaper, lower quality, bitter
+    - 2x more coffein, 20% of world production
+    - 8-9 months to grow
 - **Cascara** coffee cherry tea `1kg = 1000kc = 40€`
+
+## Harvest
+
+- `Dry` or also know as `Natural` - on african "bed", 3-5 weeks
+- `Pulped-natural`
+- `Washed` or `wet` - most popular, requires a lot of water obviously
+
+## Roasting
+
+- Has a significant influence to `taste`.
+- 180-240℃
+
+# Storing
+
+- roasted coffee should be consumed up to `4 months` after roasting
+- opened bag consume in `one week`
+- coffee in grinder should be consumed in `two hours`
+- grinded coffee consume `immediately`
+- in room temperature
 
 ## `Coffee` vs `café`
 
