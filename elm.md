@@ -14,6 +14,7 @@
   - One leader to follow
     - Not safe approach
     - To much work for one guy
+  - No regular updates on blog nor the libraries
 - Missing good Routing library
 - No serverside rendering
 - Sometimes code is unecessary long
