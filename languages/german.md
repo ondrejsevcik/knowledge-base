@@ -16,13 +16,20 @@
   - 🔥 fire
   - 💥 explosion
   - 🎆 fireworks
+  - break
   
 - DIE
   - ❄️ frozen
   - ⛄️ snow
   - 🍦 ice (cream)
-  
+  - ⛷ ski
+  - 🛑 stop
+  
 - DAS
   - 💦 water
   - 🏊 swim
   - ☔️ rain
+  - 🥃 drink
+  - 🛀🏽 shower/bath
+  -  wash
+  
