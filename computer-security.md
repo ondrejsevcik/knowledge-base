@@ -4,6 +4,9 @@
 
 - Why you shouldn't reuse passwords? 
   - https://haveibeenpwned.com
+  - Why password length matters?
+    - 8 vs 12 vs 20 char password
+  - Strange password policies - https://twitter.com/PWTooStrong
   - Use password manager
     - Keepass
     - 1 Password
