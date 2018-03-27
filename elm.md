@@ -24,3 +24,7 @@
   - `let in` tends to spread across a lot of lines
 - Acceptance testing
   - External tools are required (most likely JS tools)
+  
+# Resources
+
+- http://elmprogramming.com
