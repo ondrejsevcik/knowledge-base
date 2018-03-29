@@ -5,6 +5,9 @@
 - slope is less than 20° => no avalanche
 - when you see an avalanche and there was noone buried, let the rescue team know so the don't have to fly there
 - [Tyrol Rescue team app](https://www.leitstelle-tirol.at/leistungen/zusatzleistungen/) - sends your location directly to Tyrol rescue team
+- Helicopter approaching
+  - `yes` it's me - 🙌 two hands up (like Y)
+  - `no` you're looking for someone else - 🕺one hand up, one hand down
 
 
 ### Equipment
@@ -61,11 +64,12 @@ Do not ever go skiing offsite without proper equipment! The chances go rapidly d
 
 ![how to dig](https://content.artofmanliness.com/uploads/2011/12/Avalanche3.jpg)
 
-kopat vodorovne k mistu kde je dotycny zakopan
-pokud nas je vice, tak se stridat ve predu
-idealne kopat do V
-nejdrive najit hlavu
 
+### Resuscitation
+
+- `30:2` - if it's someone we don't know, we can skip mouth brathing
+- `6cm` deep - ribs are going to crack
+- be careful to push from top to botom, not to the side
 
 ## Myths
 
