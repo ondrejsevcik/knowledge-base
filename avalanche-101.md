@@ -34,7 +34,7 @@ Do not ever go skiing offsite without proper equipment! The chances go rapidly d
 4. don't go
 5. no way
 
-![Avalanche danger scale](https://cdn-snowboarding.transworld.net/blogs.dir/442/files/2010/07/danger-scale-english.jpg)
+![Avalanche danger scale](/assets/avalanche-danger-scale.jpeg)
 
 ## After the avalanche
 
@@ -62,7 +62,7 @@ Do not ever go skiing offsite without proper equipment! The chances go rapidly d
 - dig in `V` shape
 - first, find a head
 
-![how to dig](https://content.artofmanliness.com/uploads/2011/12/Avalanche3.jpg)
+![how to dig](/assets/avalanche-digging.jpeg)
 
 
 ### Resuscitation
