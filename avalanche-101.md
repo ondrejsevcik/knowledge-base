@@ -33,6 +33,39 @@ Do not ever go skiing offsite without proper equipment! The chances go rapidly d
 
 ![Avalanche danger scale](https://cdn-snowboarding.transworld.net/blogs.dir/442/files/2010/07/danger-scale-english.jpg)
 
+## After the avalanche
+
+- realizing what happened `1-2 minutes`
+- call for help `2 minutes`
+- localization
+- digging
+- resuscitation
+- keeping warm
+
+### Localization
+
+- first, run fast
+- when your bacon starts beeping, run slower for better accuracy
+- hold your bacon in horizontal level
+- when less than `5m` close, go slowly
+- from `2m` use X method to localize precizely
+- use probe to find body in the snow
+  - in `40cm` spiral
+  - at a right angle to slope
+  
+### Digging
+
+- dig horizontaly to place where is the body 
+- dig in `V` shape
+- first, find a head
+
+![how to dig](https://content.artofmanliness.com/uploads/2011/12/Avalanche3.jpg)
+
+kopat vodorovne k mistu kde je dotycny zakopan
+pokud nas je vice, tak se stridat ve predu
+idealne kopat do V
+nejdrive najit hlavu
+
 
 ## Myths
 
