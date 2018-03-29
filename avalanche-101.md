@@ -1,5 +1,7 @@
 # Avalanche 101
 
+2. Feb 2018, by Klaus 
+
 ## Basics
 
 - the slope is less than 20° => no avalanche
