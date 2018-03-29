@@ -3,6 +3,9 @@
 ## Basics
 
 - slope is less than 20° => no avalanche
+- when you see an avalanche and there was noone buried, let the rescue team know so the don't have to fly there
+- [Tyrol Rescue team app](https://www.leitstelle-tirol.at/leistungen/zusatzleistungen/) - sends your location directly to Tyrol rescue team
+
 
 ### Equipment
 
@@ -19,6 +22,16 @@ Do not ever go skiing offsite without proper equipment! The chances go rapidly d
 - Probe
 - Shovel - metal, not plastic
 - Bacon - do not buy used ones, they are usually crap
+
+## Avalanche danger scale
+
+1. okay
+2. when slope inclination `> 35°` and there is a heavy load on a small area => keep distance when skiing
+3. when slope inclination `> 30°`
+4. don't go
+5. no way
+
+![Avalanche danger scale](https://cdn-snowboarding.transworld.net/blogs.dir/442/files/2010/07/danger-scale-english.jpg)
 
 
 ## Myths
