@@ -43,6 +43,7 @@
   - Be careful about extensions - usually they can access everything
   - use adblock?
 - Your ISP may spy on you
+  - https://twitter.com/achse_/status/979457273511759872?s=12
 - Difference between being secure against `hackers` and against `goverment`
 - Don't use Windows OS
 - Scams/Phishing
