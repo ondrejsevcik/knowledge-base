@@ -18,3 +18,9 @@
 - [ ] Are there any `threads`?
 - [ ] Is external input handled for `XSS` properly?
 - [ ] Is external input handled for `SQL injection` properly?
+
+## Tests
+
+- [ ] Are the tests covering all side cases?
+- [ ] Do tests test one thing?
+- [ ] Are they readable?
