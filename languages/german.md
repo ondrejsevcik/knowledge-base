@@ -32,3 +32,9 @@ It's raining. **Therefore** we're staying home.
 Monika sagt, sie ist krank. Sie kommt heute **also** nicht. 
 Monika says she is sick. So **(Therefore)** she's not coming today.
 ```
+
+To convey `too`, `also`, use the German `auch`.
+```markdown
+Es regnet und es ist **auch** windig.
+Monika ist krank, und ich bin **auch** krank.
+```
