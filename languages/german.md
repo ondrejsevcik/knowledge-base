@@ -75,6 +75,46 @@ Wann kommst du **nach Hause**?
 When are you coming home?
 ```
 
+## Basic phrases
+
+- Wie viel kostet das?
+- Wo muss ich bezahlen?
+- Haben Sie eine Karte?
+- Ich möchte eine Kaffee.
+- Darf ich hereinkommen? `Can I enter?`
+- Können Sie mir helfen?
+- Muss ich umsteigen? `Do I have to change trains?`
+- Nehmen Sie Kreditkarten?
+- Welches Bier empfehlen Sie?
+- Einen Nichtrauchertisch, bitte.
+- Toll! `Great!`
+- Spitze! `Cool!`
+- Kein Problem.
+- Klar!
+- Vielleicht.
+- Auf keinen Fall! `No way!`
+- Alles klar.
+- Schade! `What a pity!`
+- Macht nichts. `Doesn't matter.`
+- Bitte sehr. `You're very welcome.`
+- Ich verstehe nicht. `I don't understand.`
+- Ich spreche ein bisschen Deutsch. `I speak a little German.`
+- Was bedeuted ...? `What does ... mean?`
+- Wie spricht man dieses Wort aus? `How do you pronounce this?`
+- Könten Sie das bitte wiederholen? `Could you please repeat that?`
+- Könten Sie das bitte aufschreiben? `Could you please write it down?`
+- Könten Sie bitte langsamer sprechen? `Could you please speak more slowly?`
+- Es war schön, Sie kennen zu lernen. `It's been great meeting you.`
+- Als was arbeiten Sie? `What's your occupation?`
+- Was machen Sie in Ihrer Freizeit?
+- Mögen Sie Sport? `Do you like sport?`
+- Haben Sie Hunger?
+- Es tut mir Leid.
+- Woher kommen Sie?
+- Freut mich. `Nice to meet you!`
+- Was empfehlen Sie? `What do you recommend?`
+
+
 ## Grammar
 
 ### Numbers
