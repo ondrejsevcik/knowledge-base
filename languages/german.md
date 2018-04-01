@@ -11,25 +11,24 @@
 - [vistawide.com/german](http://www.vistawide.com/german/german.htm) - German grammar
 
 ## DER x DIE x DAS
+  
+| Der | Die | Das |
+| --- |---| ---|
+| 🔥 fire | ❄️ frozen | 💦 water |
+| 💥 explosion | ⛄️ snow | 🏊 swim |
+| 🎆 fireworks | 🍦 ice (cream) | ☔️ rain |
+| break | ⛷ ski | 🥃 drink |
+|  | 🛑 stop | 🛀 shower/bath |
+  
+## False friends
 
-- DER
-  - 🔥 fire
-  - 💥 explosion
-  - 🎆 fireworks
-  - break
-  
-- DIE
-  - ❄️ frozen
-  - ⛄️ snow
-  - 🍦 ice (cream)
-  - ⛷ ski
-  - 🛑 stop
-  
-- DAS
-  - 💦 water
-  - 🏊 swim
-  - ☔️ rain
-  - 🥃 drink
-  - 🛀🏽 shower/bath
-  -  wash
-  
+### also / auch
+
+The German adverb `also` does not mean `also` (as in English). It means rather `therefore`, `thus`.
+```markdown
+Es regnet. **Also** bleiben wir zu Hause.
+It's raining. **Therefore** we're staying home.
+
+Monika sagt, sie ist krank. Sie kommt heute **also** nicht. 
+Monika says she is sick. So **(Therefore)** she's not coming today.
+```
