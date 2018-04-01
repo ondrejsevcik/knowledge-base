@@ -38,3 +38,17 @@ To convey `too`, `also`, use the German `auch`.
 Es regnet und es ist **auch** windig.
 Monika ist krank, und ich bin **auch** krank.
 ```
+
+### dann / denn
+
+The adverb `dann` means `then`.
+
+```markdown
+Ich schreibe diesen Brief, **dann** gehe ich zur Post.
+```
+
+The conjunction `denn` means `for`, because and is used to connect two sentences together. 
+
+```markdown
+Er arbeitet heute nicht, **denn** es ist Sonntag.
+```
