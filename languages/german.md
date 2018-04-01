@@ -161,3 +161,13 @@ add `-el` at the end.
 1/100	ein hundertstel
 1/1000	ein tausendstel
 ```
+
+### Time 
+
+The 24-hour clock is used for official information, but in spoken language, we can use the 12-hour clock as well.
+
+- 👔 formal - `24h` time format, `hour + Uhr + minutes`
+- 👄 colloquial - `12h` time format + time of the day (morgens, vormittags, abends, ...)
+
+![Telling the time in german](/assets/time-in-german-clock.png)
+![Time in german](/assets/time-in-german.png]
