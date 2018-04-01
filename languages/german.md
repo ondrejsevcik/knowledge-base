@@ -52,3 +52,25 @@ The conjunction `denn` means `for`, because and is used to connect two sentences
 ```markdown
 Er arbeitet heute nicht, **denn** es ist Sonntag.
 ```
+
+### nach Hause / zu Hause
+
+Both prepositions `nach` and `zu` can be used to mean `to` in German. 
+
+The phrase `zu Hause` always means at home and indicates home as a location for the activity of the sentence.
+```markdown
+Ich bin **zu Hause**.	
+I am (at) home.
+
+Harald arbeitet **zu Hause**.	
+Harald works at home.
+```
+
+The phrase `nach Hause` indicates movement to or toward home, going home.
+```markdown
+Ich will **nach Hause** gehen.
+I want to go home.
+
+Wann kommst du **nach Hause**?
+When are you coming home?
+```
