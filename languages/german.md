@@ -129,6 +129,12 @@ When are you coming home?
 100. hundertste
 101. hunderterste
 1000. tausendste
+
+10^6	Million
+10^9	Milliarde
+10^12	Billion
+10^15	Billiarde
+10^18	Trillion
 ```
 
 #### Enumeration
