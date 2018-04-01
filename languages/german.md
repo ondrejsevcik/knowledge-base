@@ -170,4 +170,5 @@ The 24-hour clock is used for official information, but in spoken language, we c
 - 👄 colloquial - `12h` time format + time of the day (morgens, vormittags, abends, ...)
 
 ![Telling the time in german](/assets/time-in-german-clock.png)
-![Time in german](/assets/time-in-german.png]
+
+![Time in german](/assets/time-in-german.png)
