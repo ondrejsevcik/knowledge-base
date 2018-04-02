@@ -223,4 +223,8 @@ To do that, we use the personal pronoun "es" (it) together with the verb "geben"
 ```
 Es gibt zwei Supermärkte in meiner Stadt.
 Es gibt drei Wohnungen in meinem Haus.
+
+# Question - reverse
+Gibt es hier eine Apotheke?
+Gibt es einen Supermarkt in deiner Stadt?
 ```
