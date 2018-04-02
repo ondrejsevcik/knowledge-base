@@ -212,3 +212,15 @@ The 24-hour clock is used for official information, but in spoken language, we c
 ![Telling the time in german](/assets/time-in-german-clock.png)
 
 ![Time in german](/assets/time-in-german.png)
+
+
+## Other
+
+### Use `es gibt` to express that something exists in a certain location
+
+To do that, we use the personal pronoun "es" (it) together with the verb "geben" (to give). In this combination, "es gibt" means there is/there are. The phrase does not change whether it is describing one or many things!
+
+```
+Es gibt zwei Supermärkte in meiner Stadt.
+Es gibt drei Wohnungen in meinem Haus.
+```
