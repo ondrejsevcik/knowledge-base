@@ -140,6 +140,13 @@ When are you coming home?
 # Starting with the number 2,000,000, we use the plural. 
 2.000.000 – zwei Millionen
 47.850.203 – siebenundvierzig Millionen achthundertfünfzigtausendzweihundert(und)drei
+
+
+10^6	Million
+10^9	Milliarde
+10^12	Billion
+10^15	Billiarde
+10^18	Trillion
 ```
 
 #### Ordinal numbers
@@ -169,12 +176,6 @@ When are you coming home?
 100. hundertste
 101. hunderterste
 1000. tausendste
-
-10^6	Million
-10^9	Milliarde
-10^12	Billion
-10^15	Billiarde
-10^18	Trillion
 ```
 
 #### Enumeration
