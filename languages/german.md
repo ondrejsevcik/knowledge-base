@@ -219,6 +219,7 @@ The 24-hour clock is used for official information, but in spoken language, we c
 
 - Add `-er` at the end
 - ⚠️ quite often, the vowel of short adjectives will get an umlaut change 
+- As a rough guideline, use a form like `die älteste`, `den ältesten`, … before a noun, and `am ältesten` at the end of a sentence.
 
 | normal      | comparative | superlative |
 |-------------|-------------|-------------|
