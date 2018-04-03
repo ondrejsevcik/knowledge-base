@@ -215,6 +215,37 @@ The 24-hour clock is used for official information, but in spoken language, we c
 ![Time in german](/assets/time-in-german.png)
 
 
+### Comparison
+
+- Add `-er` at the end
+- ⚠️ quite often, the vowel of short adjectives will get an umlaut change 
+
+| normal      | comparative | superlative |
+|-------------|-------------|-------------|
+| alt (old)   | **ä**lter       | am **ä**ltesten |
+| groß (big)  | gr**ö**ßer      | am gr**ö**ßten  |
+| oft (often) | **ö**fter       | am **ö**ftesten |
+
+There is a small number of irregular forms
+
+| normal         | comparative | superlative |
+|----------------|-------------|-------------|
+| gut (good)     | besser      | am besten   |
+| viel (much)    | mehr        | am meisten  |
+| gern (to like) | lieber      | am liebsten |
+| hoch (high)    | höher       | am höchsten |
+
+```
+Sie hat eine schöne Uhr.
+Sie hat eine schönere Uhr (als ich).
+
+# In the second example, the first -er is for the 
+# comparative, the second -er is the ending from der Bruder.
+Er ist mein junger Bruder. (He's my little brother.)
+Er ist mein jüngerer Bruder. (He's my younger brother.)
+```
+
+
 ## Other
 
 ### Use `es gibt` to express that something exists in a certain location
