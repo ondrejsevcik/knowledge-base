@@ -28,3 +28,4 @@
 # Resources
 
 - http://elmprogramming.com
+- https://www.elm-tutorial.org
