@@ -1,6 +1,6 @@
 # Elm - programming language
 
-## Prons
+## Pros
 
 - No runtime errors - that's huge!
 - Easy refactoring - basically because compiler will catch all errors (except the logical ones)
