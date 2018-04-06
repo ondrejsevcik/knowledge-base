@@ -14,3 +14,6 @@
 - `/\ccase insensitive search` - use `\c` switch
 - `/\Ccase sensitive search` - use `\C` switch
 
+## Text editing
+
+- `daw` deletes the whole word wherever the cursor is
