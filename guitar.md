@@ -1,3 +1,3 @@
 # Guitar
 
-- `arpaggio` - broken chord
+- `arpeggio` - broken chord
