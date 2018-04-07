@@ -75,6 +75,21 @@ Wann kommst du **nach Hause**?
 When are you coming home?
 ```
 
+### Urlaub vs. Ferien
+
+Just like in English there's "holidays" and "vacation", in German there are Ferien and Urlaub. They can be used interchangeably to some extent.
+
+```
+# Ferien only exists as a plural noun
+Die Ferien sind im Sommer. (The holidays are in summer.)
+
+# Urlaub only exists as a singular noun:
+Wann ist der Urlaub? (When is the vacation?)
+```
+
+
+
+
 ## Basic phrases
 
 - Wie viel kostet das?
