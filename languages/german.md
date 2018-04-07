@@ -286,7 +286,7 @@ Es gibt keine Apotheke in der Nähe.
 ### Asking a Question in German With a `W-Word`
 
 | English | German |
-------------------
+|---|---|
 | what | was |
 | who | wer |
 | where | wo |
@@ -300,7 +300,7 @@ Es gibt keine Apotheke in der Nähe.
 If you ask was with a preposition, the two normally turn into a new word, according to the following pattern:
 
 | English | preposition |	wo- |
-----------------------------
+|---|---|---|
 | for what | für | wofür |
 | about what | über | worüber |
 | with what | mit | womit |
