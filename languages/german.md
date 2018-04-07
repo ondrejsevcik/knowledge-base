@@ -333,3 +333,16 @@ Wie viel Milch trinkst du? (How much milk do you drink?)
 # Wie viele is **only** used with countable nouns (how many). 
 Wie viel(e) Tiere siehst du? (How many animals do you see?)
 ```
+
+## Cases
+
+### 3. Dativ
+
+> “Who/what is the indirect recipient of the action?”
+
+The person or thing that "receives" the result of the action is called the **indirect object**. It is only indirectly affected by the action.
+
+```
+Er kauft **dem Kind** ein Eis. (He's buying some ice cream for the child.)
+Ich gebe **meiner Freundin** eine Blume. (I'm giving a flower to my girlfriend.)
+```
