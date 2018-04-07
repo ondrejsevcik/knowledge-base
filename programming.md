@@ -72,3 +72,6 @@ sum = "Summary: "
 sum = "Summary:"
 ```
 
+### Design adaptible UI
+
+When designing the UI, keep in mind that some translated strings will be much longer than in your default language and may not fit in your designed UI. 
