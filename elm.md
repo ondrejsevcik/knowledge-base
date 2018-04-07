@@ -29,3 +29,13 @@
 
 - http://elmprogramming.com
 - https://www.elm-tutorial.org
+
+
+# Unanswered questions
+
+- How to do integration testing
+- How to do acceptance testing
+- How to utilize Routing (incliding query params)
+- How to handle 404, 301 redirects etc.
+- How to do Drag&Drop
+- How to Localize app
