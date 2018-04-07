@@ -282,3 +282,54 @@ Gibt es einen Supermarkt in deiner Stadt?
 Es gibt keinen Supermarkt in meinem Dorf.
 Es gibt keine Apotheke in der Nähe.
 ```
+
+### Asking a Question in German With a `W-Word`
+
+|English	|German|
+------------------
+|what|	was|
+|who|	wer|
+|where|	wo|
+|when|	wann|
+|how|	wie|
+|why|	warum|
+|which|	welcher|
+
+#### Was (what)
+
+If you ask was with a preposition, the two normally turn into a new word, according to the following pattern:
+
+|English |preposition|	wo-|
+----------------------------
+| for what|	für	| wofür|
+|about what	|über	|worüber
+|with what|	mit|	womit
+
+#### Wer (who)
+
+Wer is declinable and needs to **adjust to the cases**.
+
+```
+# Nominative 
+Wer ist da? (Who is there?).
+
+# Accusative 
+Wen siehst du? — Ich sehe den Hund.
+(Whom do you see? — I see the dog.)
+
+# Dative
+wem 
+
+# Genitive
+wessen (whose)
+```
+
+#### Wie viel vs. wie viele
+
+```
+# Wie viel is used with uncountable or countable nouns (how much/how many)
+Wie viel Milch trinkst du? (How much milk do you drink?)
+
+# Wie viele is **only** used with countable nouns (how many). 
+Wie viel(e) Tiere siehst du? (How many animals do you see?)
+```
