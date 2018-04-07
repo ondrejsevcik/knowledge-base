@@ -46,6 +46,8 @@ calendar.month-view.add-new-event = "Add new event"
 
 ### Avoid concatenations, use placeholders instead
 
+This gives translators ability to control grammar structure. It won't be `tos-text + tos-link` in every language!
+
 ```
 # Wrong 
 tos-text = By proceeding you accept the
