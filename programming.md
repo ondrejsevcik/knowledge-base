@@ -34,12 +34,14 @@ TODO: WHY?
 
 ### Use unique and descriptive IDs
 
+Ideally it should give a clear context where it's being used. 
+
 ```
 # Bad
 new-event = "Add new event"
 
 # Better
-add-new-event = "Add new event"
+calendar.month-view.add-new-event = "Add new event"
 ```
 
 ### Avoid concatenations, use placeholders instead
