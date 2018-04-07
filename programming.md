@@ -24,3 +24,49 @@
 > - If the implementation is easy to explain, it may be a good idea.
 > 
 > [Zen of Python](https://www.python.org/dev/peps/pep-0020/#id3)
+
+
+## Localization & Internationalization best practices
+
+### Split translation files into multiple files 
+
+TODO: WHY?
+
+### Use unique and descriptive IDs
+
+```
+# Bad
+new-event = "Add new event"
+
+# Better
+add-new-event = "Add new event"
+```
+
+### Avoid concatenations, use placeholders instead
+
+```
+# Wrong 
+tos-text = By proceeding you accept the
+tos-link = Terms of Services
+
+# Better
+tos-text = By proceeding you accept the {{link}}
+tos-link = Terms of Services
+```
+
+### Don't reuse strings in different contexts
+
+Some words have might have multiple meanings in different context, but that doesn't mean that it's the same for another lagnuages. Take `free` as an example.
+
+### Don't hardcode characters
+
+When you put a space at the end of the string, you can be sure that someone will eventually trim that space in translation. 
+
+```
+# Wrong
+sum = "Summary: "
+
+# Better
+sum = "Summary:"
+```
+
