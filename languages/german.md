@@ -334,6 +334,14 @@ Wie viel Milch trinkst du? (How much milk do you drink?)
 Wie viel(e) Tiere siehst du? (How many animals do you see?)
 ```
 
+## Modal verbs
+
+- `können` (to be able to)
+- `dürfen` (to be allowed)
+- `müssen` (must, to have to)
+- `mögen` (would like)
+- `wollen` (to want)
+
 ## Cases
 
 ### 3. Dativ
