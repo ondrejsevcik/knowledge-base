@@ -17,3 +17,10 @@
 ## Text editing
 
 - `daw` deletes the whole word wherever the cursor is
+
+## Navigation
+
+- `Ctrl+o` - back
+- `Ctrl+i` - forward
+  - `:jumps` - displays jumps for current window
+
