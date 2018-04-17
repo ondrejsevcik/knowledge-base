@@ -18,6 +18,7 @@
 - [ ] Are there any `threads`?
 - [ ] Is external input handled for `XSS` properly?
 - [ ] Is external input handled for `SQL injection` properly?
+- [ ] All external links should have `rel=noopener` attribute ([source](https://mathiasbynens.github.io/rel-noopener/))
 
 ## Tests
 
