@@ -30,7 +30,7 @@
   
 ### Splits
 
-- `^w` followed by capital `H`,`J`,`K` or `L` will move the current window to the far left, bottom, top or right respectively like normal cursor navigation
+- `Ctrl+w` followed by capital `H`,`J`,`K` or `L` will move the current window to the far left, bottom, top or right respectively like normal cursor navigation
 
 ## Motions
 
