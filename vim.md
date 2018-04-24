@@ -34,3 +34,15 @@
   - press again and you go to most recent - 1
 - `` `.`` go to most recent modification
 - `` `^`` go to last insertion
+
+## Spell checking
+
+- `:setlocal spell` enable spell checking
+- `:set nospell` disable spell check
+- `]s` move to next misspelled word
+- `[s` move to previous misspeled word
+- `zg` mark word as a good word
+- `zG` mark good just for current instance (will be lost after restart)
+- `zw` mark word as wrong word
+- `zW` mark word as wrong word for current instance
+- `z=` suggest correction
