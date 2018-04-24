@@ -31,3 +31,5 @@
 ## Motions
 
 - `g;` - go to most recent modification in the document
+  - press again and you go to most recent - 1
+- `` `.`` go to most recent modification
