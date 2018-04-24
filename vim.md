@@ -28,3 +28,6 @@
 - `Ctrl+i` - forward
   - `:jumps` - displays jumps for current window
 
+## Motions
+
+- `g;` - go to most recent modification in the document
