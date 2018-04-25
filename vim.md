@@ -28,6 +28,12 @@
 - `Ctrl+i` - forward
   - `:jumps` - displays jumps for current window
   
+### Tabs
+
+- `gt` (or `:tabn`) - to go to next tab
+- `gT` (or `:tabp` or `:tabN`) - to go to previous tab
+- `#gt` (or `:tabn #`) - to go to #th tab
+  
 ### Splits
 
 - `Ctrl+w` followed by capital `H`,`J`,`K` or `L` will move the current window to the far left, bottom, top or right respectively like normal cursor navigation
