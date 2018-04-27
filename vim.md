@@ -21,6 +21,8 @@
 ## Text editing
 
 - `daw` deletes the whole word wherever the cursor is
+- `dip` `d`elete `i`nside `p`aragraph
+- `di{` `d`elete `i`nside `{` curly braces
 
 ## Navigation
 
