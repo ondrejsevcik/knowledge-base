@@ -56,3 +56,9 @@
 - `zw` mark word as wrong word
 - `zW` mark word as wrong word for current instance
 - `z=` suggest correction
+
+## Registers (a.k.a. clipboard)
+
+- `"byy` copy to `b` register
+- `"bp` paster from `b` register
+- `"bdd` delete to `b` register
