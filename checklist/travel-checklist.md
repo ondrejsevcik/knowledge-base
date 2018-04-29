@@ -68,4 +68,4 @@
 - Clicker
 - Water
 - 💩bags
-
+- Vaccination ID
