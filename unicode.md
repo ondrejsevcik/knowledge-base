@@ -1,3 +1,3 @@
 # Unicode
 
-[](/assets/unicode.png)
+![Unicode sketch](/assets/unicode.png)
