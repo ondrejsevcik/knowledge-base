@@ -59,3 +59,13 @@
 - Razor
 
 
+## Jessie 🐶
+- Harness
+- Leash
+- Muzzle
+- Treats
+- Food
+- Clicker
+- Water
+- 💩bags
+
