@@ -3,6 +3,7 @@
 ## Websites
 
 - https://vim-cheat-sheet.now.sh
+- [Colours in terminal](https://gist.github.com/XVilka/8346728)
 
 ## Commands
 - `q/` - opens search history window
