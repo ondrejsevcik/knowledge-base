@@ -1,5 +1,7 @@
 # Programming
 
+- [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html)
+
 ## Some wisdom
 
 > duplication is far cheaper than the wrong abstraction
