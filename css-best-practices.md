@@ -56,3 +56,7 @@ switch(order.status) {
     element.classList.add("order--closed");
 }
 ```
+
+## Semantics !== visual style
+
+When you have a `<h3>Header</h3>` it doesn't mean it should always look like a header. When you have `<a href="...` it doesn't mean it should always look like a link. Don't style elements, **always use classes**.
