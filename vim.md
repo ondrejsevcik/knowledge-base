@@ -13,6 +13,19 @@
   - `d` - stands for delete
   - `!` - inverts the matching
 - `:g/delete-me/d` - delete all lines containing the string `delete-me`
+- `:s/old/new` - to substitute `new` for the first `old` in a line    
+- `:s/old/new/g` - to substitute `new` for all `old's` on a line
+- `:#,#s/old/new/g` - to substitute phrases between two line #'s
+- `:%s/old/new/g` - to substitute all occurrences in the file
+- `:%s/old/new/gc` - to ask for confirmation each time add `c`
+- `:!command` - executes an external command.
+- `:r` or `:read` - read command
+  - `:r FILENAME` - retrieves disk file FILENAME and puts it below the cursor position.
+  - `:r !ls` - reads the output of the dir command and puts it below the cursor position.
+- `R` - replace mode. Like insert mode but deletes existing characters
+- When typing a  `:` command, press `Ctrl-d` to see possible completions. Press `<TAB>` to use one completion.
+
+
 
 ## Search
 
@@ -24,12 +37,25 @@
 - `daw` deletes the whole word wherever the cursor is
 - `dip` `d`elete `i`nside `p`aragraph
 - `di{` `d`elete `i`nside `{` curly braces
+- `vip` `v`isual select `i`nside `p`aragraph
+- `cip` `c`hange `i`nside `p`aragraph
+- `gU` - change text to UPPERCASE
+- `gu` - change text to lowercase
 
 ## Navigation
 
 - `Ctrl+o` - back
 - `Ctrl+i` - forward
   - `:jumps` - displays jumps for current window
+- `<number> + G` go to line <number>
+- `Ctrl+g` shows info about current position within the file in the bottom line
+- `H` - Highest line on the screen
+- `M` - Middle line on the screen
+- `L` - Lowest line on the screen
+- `zt` - scroll view so that cursor is aligned to the `t`op
+- `zz` - scroll view so thet cursor is aligned in the middle
+- `zb` - scroll view so that cursor is aligned to the `b`ottom
+
   
 ### Tabs
 
@@ -47,6 +73,9 @@
   - press again and you go to most recent - 1
 - `` `.`` go to most recent modification
 - `` `^`` go to last insertion
+- `0` go to the start of the line
+- `^` go to the first character on the line
+- 
 
 ## Spell checking
 
