@@ -6,4 +6,6 @@
 
 ---
 
-![My book mindmap](/assets/fluent-forever-mindmap.jpeg)
+![Book mindmap](/assets/fluent-forever-mindmap.jpeg)
+
+![Table review](/assets/fluent-forever-table-review.jpeg)
