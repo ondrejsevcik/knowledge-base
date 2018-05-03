@@ -6,6 +6,7 @@
 - [Colours in terminal](https://gist.github.com/XVilka/8346728)
 
 ## Commands
+
 - `q/` - opens search history window
 - `q:` - opens command history window
 - `:g!/dont/d` - delete all lines not containing the string `dont`
@@ -13,7 +14,6 @@
   - `d` - stands for delete
   - `!` - inverts the matching
 - `:g/delete-me/d` - delete all lines containing the string `delete-me`
-
 - `:!command` - executes an external command.
 - `:r` or `:read` - read command
   - `:r FILENAME` - retrieves disk file FILENAME and puts it below the cursor position.
