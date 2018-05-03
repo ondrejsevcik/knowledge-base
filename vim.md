@@ -13,11 +13,7 @@
   - `d` - stands for delete
   - `!` - inverts the matching
 - `:g/delete-me/d` - delete all lines containing the string `delete-me`
-- `:s/old/new` - to substitute `new` for the first `old` in a line    
-- `:s/old/new/g` - to substitute `new` for all `old's` on a line
-- `:#,#s/old/new/g` - to substitute phrases between two line #'s
-- `:%s/old/new/g` - to substitute all occurrences in the file
-- `:%s/old/new/gc` - to ask for confirmation each time add `c`
+
 - `:!command` - executes an external command.
 - `:r` or `:read` - read command
   - `:r FILENAME` - retrieves disk file FILENAME and puts it below the cursor position.
@@ -25,6 +21,15 @@
 - `R` - replace mode. Like insert mode but deletes existing characters
 - When typing a  `:` command, press `Ctrl-d` to see possible completions. Press `<TAB>` to use one completion.
 
+### Substitute cmds
+
+`:s` is just shortcut for `:substitute`
+
+- `:s/old/new` - to substitute `new` for the first `old` in a line    
+- `:s/old/new/g` - to substitute `new` for all `old's` on a line
+- `:#,#s/old/new/g` - to substitute phrases between two line #'s
+- `:%s/old/new/g` - to substitute all occurrences in the file
+- `:%s/old/new/gc` - to ask for confirmation each time add `c`
 
 
 ## Search
