@@ -140,3 +140,13 @@ It needs to be quite small and self-contained so that you can code it from scrat
 
 
 
+## Organizing a Coding Dojo
+
+Deliberate Practice - it is only by working at what you can't do that you turn into the expert you want to become.
+
+> But what changes people is what they do, not what they read. How many diet books have I read? Am I thinner?...
+
+- Finding Or Founding A Coding Dojo
+  - find someone to co-found it with you. It's more fun that way and you keep each other moving.
+  - meetup.com
+  - agilealliance.org
