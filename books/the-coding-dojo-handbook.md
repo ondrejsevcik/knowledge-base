@@ -101,12 +101,10 @@ It's not possible to pause presenter and ask a question but if you already know 
 - practice usually [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 - usually 5 sessions (5m intro, 45m coding, 5m retro, 5m break = 60m/session)
  - at the end of the session, you delete all the code - less stressful (you're not there to deliver)
-
-
-- [Global Day of Code Retreat](https://www.coderetreat.org/)
-- Legacy Code Retreat
+- Every year, there is [Global Day of Code Retreat](https://www.coderetreat.org/)
+- Another variant is Legacy Code Retreat
  - focus on refactoring and Approval Testing
- - [Trivia] (https://github.com/jbrains/trivia)
+ - [Trivia](https://github.com/jbrains/trivia)
  
 #### Constraints
 
