@@ -120,5 +120,23 @@ Idea is to force you out of your comfort zone and give you no choice but to work
 - Collective Green Deadline (a.k.a. Customer is coming for demo)
 
 
+### Using Production code in the dojo
+
+- Sometimes, it's good to bring up your next (production) coding task in as a Dojo exercise
+- Follow the usual meeting format
+- Be very careful to keep the atmosphere safe and constructive
+- Keep doing TDD
+- Make progress in small steps
+
+#### This code is impossible to TDD!
+
+Alternatively, you might be finding TDD really hard with a particular piece of legacy code. Get your most experienced developer to do some preparation, and practice TDD:ing a tricky piece of code. They can then show this as a prepared Kata to the rest of the team. **The idea is to inspire everyone that TDD is possible after all**.
+
+#### Identify a suitable Kata from production code
+
+Sometimes when you're working on production code, you find TDD working really well, and that the piece of code you're building feels small and self-contained like a Kata. You might want to package it as such and try it out at your next dojo.
+
+It needs to be quite small and self-contained so that you can code it from scratch in 1-2 hours.
+
 
 
