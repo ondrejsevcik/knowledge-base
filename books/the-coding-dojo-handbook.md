@@ -85,3 +85,42 @@ Ideal for larger groups (10+). Pairs (or trios) work on a Kata for 45-90 minutes
 
 Same as Randori in Paris but every 10 minutes each pair switch one member. 
 
+
+### Prepared Kata
+
+In a prepared Kata demonstration, someone has practiced the kata many times and is showing the group their best solution (entire process from empty editor via TDD to a full working solution).
+
+#### Screencast 
+
+It's not possible to pause presenter and ask a question but if you already know the Kata, and have practiced it, it might be also beneficial to see someone else do it differently.
+
+
+### Code Retreat
+
+- day-long practice-intensive event for programmers
+- practice usually [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+- usually 5 sessions (5m intro, 45m coding, 5m retro, 5m break = 60m/session)
+ - at the end of the session, you delete all the code - less stressful (you're not there to deliver)
+
+
+- [Global Day of Code Retreat](https://www.coderetreat.org/)
+- Legacy Code Retreat
+ - focus on refactoring and Approval Testing
+ - [Trivia] (https://github.com/jbrains/trivia)
+ 
+#### Constraints
+
+Idea is to force you out of your comfort zone and give you no choice but to work on a particular coding skill.
+
+- Make a test list
+- Keyboard only
+- Plaintext editor
+- Really small methods
+- No Conditionals
+- No Loops
+- Mute pairing with "Find the Loophole"
+- Collective Green Deadline (a.k.a. Customer is coming for demo)
+
+
+
+
