@@ -195,7 +195,7 @@ Deliberate Practice - it is only by working at what you can't do that you turn i
 
 ## Using Code Katas to learn TDD
 
-![TDD sub-skills](/assets/coding-dojo-tdd-subskuls.png)
+![TDD sub-skills](/assets/coding-dojo-tdd-subskills.png)
 
 ![TDD states](/assets/coding-dojo-tdd-states.png)
 
