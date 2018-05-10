@@ -183,12 +183,12 @@ Deliberate Practice - it is only by working at what you can't do that you turn i
 
 ## Dojo Principles
 
-1. The First rule - one can't discuss a form without code, and one can't show code without tests
-2. Finding a Master - The master can't be a master of every form
-3. Come Without Your Relics - of course you know how to do it, point is to share it with others
-4. Learning Again - We can learn from other people's mistakes as well as from our own
-5. Slow Down - There is no deadline to miss!
-6. Throwing Yourself In - You feel bored? Throw yourself into a Prepared Kata presentation
-7. Subjecting to a Master - If it seems difficult to you, ask until it is not
-8. Mastering a Subject - If it seems easy to you, explain it to others who find it difficult
+1. **The First rule** - one can't discuss a form without code, and one can't show code without tests
+2. **Finding a Master** - The master can't be a master of every form
+3. **Come Without Your** Relics - of course you know how to do it, point is to share it with others
+4. **Learning Again** - We can learn from other people's mistakes as well as from our own
+5. **Slow Down** - There is no deadline to miss!
+6. **Throwing Yourself In** - You feel bored? Throw yourself into a Prepared Kata presentation
+7. **Subjecting to a Master** - If it seems difficult to you, ask until it is not
+8. **Mastering a Subject** - If it seems easy to you, explain it to others who find it difficult
 
