@@ -150,3 +150,13 @@ Deliberate Practice - it is only by working at what you can't do that you turn i
   - find someone to co-found it with you. It's more fun that way and you keep each other moving.
   - meetup.com
   - agilealliance.org
+
+
+### What happens at a Coding Dojo?
+
+- Introduce the Dojo (2-15 minutes)
+- Agree the activities for todays Dojo (2-10 minutes)
+- Code! (1-3h, ideally 2)
+- Retrospective (5-15 minutes)
+
+
