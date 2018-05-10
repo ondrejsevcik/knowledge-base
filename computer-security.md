@@ -72,3 +72,6 @@
 > - https://arstechnica.com/information-technology/2018/03/facebook-scraped-call-text-message-data-for-years-from-android-phones/
 
 > if you don't pay for a product you are the product
+
+- [TED Talk: Why Privacy Matters](https://www.ted.com/talks/glenn_greenwald_why_privacy_matters)
+  - "If you think you have nothing to hide, send me your email password..."
