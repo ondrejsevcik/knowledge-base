@@ -192,3 +192,10 @@ Deliberate Practice - it is only by working at what you can't do that you turn i
 7. **Subjecting to a Master** - If it seems difficult to you, ask until it is not
 8. **Mastering a Subject** - If it seems easy to you, explain it to others who find it difficult
 
+
+## Using Code Katas to learn TDD
+
+![TDD sub-skills](/assets/coding-dojo-tdd-subskuls.png)
+
+![TDD states](/assets/coding-dojo-tdd-states.png)
+
