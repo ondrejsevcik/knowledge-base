@@ -155,8 +155,40 @@ Deliberate Practice - it is only by working at what you can't do that you turn i
 ### What happens at a Coding Dojo?
 
 - Introduce the Dojo (2-15 minutes)
-- Agree the activities for todays Dojo (2-10 minutes)
+- Agree on the activities for today's Dojo (2-10 minutes)
 - Code! (1-3h, ideally 2)
 - Retrospective (5-15 minutes)
 
+
+### Facilitation A Dojo meeting
+
+- Before the meeting
+  - Decide on the Kata you plan to do at the meeting
+  - Have closer look at it
+- During the meeting
+  - maintain a healthy atmosphere where people feel safe to learn
+  - try not to stop people as soon as they start messing up with TDD or write a bad design
+  - ask questions and make observations
+  - give a praise
+  - make notes for retrospective (Parking lot)
+- Retrospective
+  - Discuss what they've learned
+  - Discuss what went less well so your next Dojo will be even better
+  - When a discussion is difficult to manage, let them write on a piece of paper and read out a few
+    - one thing that surprised you
+    - one thing you learned
+    - one thing you plan to take with you
+  - Plan for the next meeting (think about what skills people are still struggling with)
+  
+
+## Dojo Principles
+
+1. The First rule - one can't discuss a form without code, and one can't show code without tests
+2. Finding a Master - The master can't be a master of every form
+3. Come Without Your Relics - of course you know how to do it, point is to share it with others
+4. Learning Again - We can learn from other people's mistakes as well as from our own
+5. Slow Down - There is no deadline to miss!
+6. Throwing Yourself In - You feel bored? Throw yourself into a Prepared Kata presentation
+7. Subjecting to a Master - If it seems difficult to you, ask until it is not
+8. Mastering a Subject - If it seems easy to you, explain it to others who find it difficult
 
