@@ -106,3 +106,9 @@
 - `Ctrl+u` delete all entered characters before the cursor
 - `Ctrl+h` delete one character (backspace)
 - `Ctrl+o` enters Insert Normal Mode -> You can execute one command (e.g.: `zz`) and then return back to Insert mode
+
+## Visual mode
+
+- `Ctrl+v` block-wise visual mode
+- `gv` reselect the last visual selection
+- `o` go to the other end of visual selection
