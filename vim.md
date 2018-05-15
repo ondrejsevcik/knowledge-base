@@ -21,6 +21,18 @@
 - `R` - replace mode. Like insert mode but deletes existing characters
 - When typing a  `:` command, press `Ctrl-d` to see possible completions. Press `<TAB>` to use one completion.
 
+### Under the hood
+
+- `:{start},{end}{command}`
+  - `.` - current line
+  - `$` - last line
+  - `1` - first line
+  - `%` - all lines in the file
+- `:1,10d` - delete lines 1-10
+  - `:.,$copy` - copy from current line `.` till the end `$`
+    
+  
+
 ### Substitute cmds
 
 `:s` is just shortcut for `:substitute`
