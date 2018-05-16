@@ -27,7 +27,10 @@
   - `.` - current line
   - `$` - last line
   - `1` - first line
+  - `0` - zero line (used when you move test to beginning for example `:move 0`)
   - `%` - all lines in the file
+  - `<` - start of visual selection
+  - `>` - end of visual selection
 - `:1,10d` - delete lines 1-10
   - `:.,$copy` - copy from current line `.` till the end `$`
     
