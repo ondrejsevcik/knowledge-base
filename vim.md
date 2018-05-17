@@ -21,6 +21,16 @@
 - `R` - replace mode. Like insert mode but deletes existing characters
 - When typing a  `:` command, press `Ctrl-d` to see possible completions. Press `<TAB>` to use one completion.
 
+#### Copy & move
+
+`:copy` or `:co` or `:t`
+`:move` or `:m`
+
+- `:copy $` - copy current line to the end
+- `:t6` - copy current line below line 6
+- `:6t.` - copy line 6 below current line
+- `:m$` - move current line at the end of the file
+
 ### Under the hood
 
 - `:{start},{end}{command}`
