@@ -31,9 +31,10 @@
 - `:6t.` - copy line 6 below current line
 - `:m$` - move current line at the end of the file
 
-### Normal cmd
+#### Normal cmd
 
 - `:.,$normal A;` - append `;` at the end of each line from the current one till the last one
+
 
 ### Under the hood
 
