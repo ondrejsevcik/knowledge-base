@@ -69,3 +69,4 @@
 - Water
 - 💩bags
 - Vaccination ID
+- Tick ticks ⛏
