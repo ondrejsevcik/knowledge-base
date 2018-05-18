@@ -10,7 +10,7 @@
 
 The three keys to Language Learning
 - Learn pronunciation first
-- Don't translate - otherwise you're practicing translation instead of speaking
+- Don't translate - otherwise, you're practicing translation instead of speaking
 - Use spaced repetition systems
 
 What is fluency? It's something different for each of us!
@@ -22,12 +22,12 @@ Choose a language that you like. Never settle for safe (popular) when you can ha
 ### Get yourself some books
 - Good grammar book
   - Avoid books systematically detailing every single solitary rule
-  - No "Englishy" pronounciation (like Bonjour: bawn-JURE)
-- A phrase book
+  - No "Englishy" pronunciation (like Bonjour: bawn-JURE)
+- A phrasebook
 - A frequency dictionary
 - A pronunciation guide
 - Bilingual dictionary (might be online)
-- Monolingual dictionary (a.k.a. devinition dictionary)
+- Monolingual dictionary (a.k.a. definition dictionary)
 - Thematic vocabulary book
 
 
@@ -38,7 +38,7 @@ Choose a language that you like. Never settle for safe (popular) when you can ha
 - **Sound**: Does APPLE rhyme with Snapple?
   - With sound, you'll have a much easier time remembering words
 - **Concept**: Is TOOL another word for "instrument"?
-  - Abstract or Concrete. Concrete is always better, because they engage more of our brains.
+  - Abstract or Concrete. Concrete is always better because they engage more of our brains.
 - **Personal Connection**: Do you like PIZZA?
   - Combination of word, picture and personal connection is a winning strategy
 
@@ -57,13 +57,40 @@ When you study by reading through a list multiple times, you're practicing readi
 
 ### Principle 4: Wait, wait! Don't tell me!
 
-- If you can consistently test yourself right befor you forget, you'll double the effectiveness of every test.
-- Memory tests are more effective when they're challenging. The close you get to forgetting a word, the more ingrainded it will become when you finally remember it.
+- If you can consistently test yourself right before you forget, you'll double the effectiveness of every test.
+- Memory tests are more effective when they're challenging. The closer you get to forgetting a word, the more ingrained it will become when you finally remember it.
 
 ### Principle 5: Rewrite the past
 
-When we remember, we don't just access our memories; we rewrite them. This rewriting process is the enginge behind long-term memorization. Every act of recall imbues old memories with a trace of your present-day self. It creates a new connection and associations that make your old memory easier to recall.
+When we remember, we don't just access our memories; we rewrite them. This rewriting process is the engine behind long-term memorization. Every act of recall imbues old memories with a trace of your present-day self. It creates a new connection and associations that make your old memory easier to recall.
 
+### Timing is the key
+
+You can't just grab someone else's flashcards and expect to understand them. You have to create your own deck with a personal connection. That's the key to remember. If you take just a moment to figure out how to remind yourself of the meaning of a word, you can retain that word forever. Spaced repetition systems (SRSs) are flashcards on steroids!
+
+
+## Sound Play
+
+> Accent is the soul of language; it gives language its feeling and truth.
+> - Jean-Jacques Rousseau
+
+- When you're not sure about the way your language sounds, you're stuck learning two languages instead of just one.
+- The better you internalize good pronunciation habits in the beginning, the less time you'll waste hunting down broken words.
+- People with strong foreign accents are frequently treated as less adept at the language (and less intelligent) then they are, even if this is unfair.
+
+
+### Train your ears, rewire your brain
+
+- Your brain is hardwired to ignore the differences between foreign sounds. To rewire it, listen to minimal pair in your target language - similar sounding words like `niece` and `knees` and test yourself until your brain adapts to hear these new sounds.
+- By practicing in this way, you'll be better equipped to recognize words when they're spoken, and you'll have an easier time memorizing them on your own.
+
+
+#### Back-Chaining - How to Get Ridiculous Words into Your Mouth
+
+`Höchstgeschwindigkeitsbegrenzung` - Go backwards. Say the end and then add one letter at the time. This makes it easier to finish the word correctly. 
+
+- Impressions matter and your accent makes your first impression in any language.
+- Improve your accent by learning the raw ingredients - `the tongue`, `lip` and `vocal cord position` of every new sound you need (Use IPA).
 
 ---
 
