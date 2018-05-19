@@ -132,66 +132,7 @@ Wann ist der Urlaub? (When is the vacation?)
 
 ## Grammar
 
-### Numbers
-
-```
-100 (ein)hundert
-101 (ein)hunderteins
-102 (ein)hundertzwei
-200 zweihundert
-9815 neuntausendachthundert(und)fünfzehn
-
-# numbers up to 999,999 are written as a single word
-999.999 neunhundertneunundneunzigtausendneunhundertneunundneunzig
-
-# The years up to 1999 are said and written as hundreds. 
-# Starting with 2000, however, we use normal cardinal numbers.
-1999 – neunzehnhundertneunundneunzig
-2011 – zweitausend(und)elf
-
-# Million is always written as a separate word.
-1.500.000 – eine Million fünfhunderttausend
-
-# Starting with the number 2,000,000, we use the plural. 
-2.000.000 – zwei Millionen
-47.850.203 – siebenundvierzig Millionen achthundertfünfzigtausendzweihundert(und)drei
-
-
-10^6	Million
-10^9	Milliarde
-10^12	Billion
-10^15	Billiarde
-10^18	Trillion
-```
-
-#### Ordinal numbers
-
-- since 2. - 19. add `-te`
-  - except `erste`, `dritte`, `achte`
-- since 20. and up add `-ste`
-
-```
-1. erste
-2. zweite
-3. dritte
-4. vierte
-5. fünfte
-6. sechste
-7. sieb(en)te
-8. achte
-9. neunte
-10. zehnte
-13. dreizehnte
-19. neunzehnte
-20. zwanzigste
-21. einundzwanzigste
-34. vierunddreißigste
-67. siebenundsechzigste
-88. achtundachtzigste
-100. hundertste
-101. hunderterste
-1000. tausendste
-```
+# Numbers
 
 #### Enumeration
 
