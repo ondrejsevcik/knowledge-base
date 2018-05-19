@@ -125,6 +125,36 @@ It's terrybly difficult to get a student to say `lissen` when he sees a word lik
 - If your language has grammatical gender, you can memorize it easily if you assign each gender a pariculary vivid action and then imagine each of your nouns performing that action.
   - masculine = exploding (exploding dog), femine = freezing (women on ice)
 
+## Sentence Play
+
+> First you learn the instrument, then you learn the music, then you forget all that s\*\*t and just play.
+> - Charlie Parker
+
+Comprehensible input - input that you can understand despite not knowing all words and structures in it.
+Kids seem to succeed at language learning where adults fail, but thet's only because they get much more input than we do.
+  - They don't worry about making mistakes
+  - On average, adults learn languages faster than kids do!
+  
+- You'll learn fastest if you take advantage of your language machine - the pattern-crunching tool that taught you the grammar of your native language. This machine runs off of comprehensible input - sentences that you understand - so you'll need to find a good source of simple, clear sentences with translations and explanations.
+- Take your first sentences out of your grammar book. That way, your sentences can do double duty, teaching you every grammar rule consciously while your language machine works in the background, piecing together an automatic, intuitive understanding of grammar that will rapidly bring you to fluency. 
+
+
+#### Simplify, Simplify: Turning Mountains into Molehils
+
+All of grammar's infinite possibilities are the product of three basic operations: we `add words`, we `change words` and we `change their order`. That's it.
+
+When to make a flash card:
+- Do you see any new words here?
+- Do you see any new word forms here?
+- Is the word order suprising to you?
+
+Example how to learn abstract vocabulary (word `by`)
+![Word order](/assets/fluent-forever-word-order.png)  
+
+- Use your grammar book as a source of simple example sentences and dialogues.
+- Pick and choose your favorite examples of each grammar rule. Then break those examples down into new words, word forms and word orders. You'll end up with a pile of effective, easy-to-learn flash cards.
+
+
 
 
 ---
