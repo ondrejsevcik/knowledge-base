@@ -92,6 +92,22 @@ You can't just grab someone else's flashcards and expect to understand them. You
 - Impressions matter and your accent makes your first impression in any language.
 - Improve your accent by learning the raw ingredients - `the tongue`, `lip` and `vocal cord position` of every new sound you need (Use IPA).
 
+### Train your eyes, see the patterns
+
+It's terrybly difficult to get a student to say `lissen` when he sees a word like `listen`. This problem vanishes as soon as they start using IPA. No one pronounces the `t` in `listen` hen they're reading `lısn`. 
+
+- Every language contains a pattern of connections between its spelling and its sounds. If you can internalize that pattern and make it automatic, you'll save yourself a great deal of work.
+- The easiest way to internalize those patterns is to use your SRS. Create flash cards to memorize every spelling pattern you need.
+- In the process, approach foreign sounds an complex patterns from as many angles as you can - from their spellings to their sounds, even down to the individual mouth positions used for each sound. You're taking advantage of on of the stranger quirks of learining: the more bits and pieces you learn, the less work it takes to learn them. 
+
+!Do this now: Learn your language's sound system.
+
+
+## Word Play and the Symphony of a Word
+
+
+
+
 ---
 
 ![Book mindmap](/assets/fluent-forever-mindmap.jpeg)
