@@ -155,6 +155,38 @@ Example how to learn abstract vocabulary (word `by`)
 - Pick and choose your favorite examples of each grammar rule. Then break those examples down into new words, word forms and word orders. You'll end up with a pile of effective, easy-to-learn flash cards.
 
 
+#### Story Time: Making Patterns Memorable
+
+- Languages are often full of complex, hard-to-remember patterns. You can learn these patterns easily by embedding them into simple, understandable stories.
+- Whenever you encounter a confusing declension chart in your grammar book, take the nearest example sentence and use it to generate stories that cover every new form you need.
+- You'll turn these stories into illustrated flashcards and you'll use those flashcards to learn your language's patterns.
+
+#### Person Action Object: The Mnemonic Images of Memory Champions
+
+`Arnold Schwarzenegger explodiert den Hund`
+- Arnold Schwarzenegger - Plural form 1
+- Explodes - masculine gender
+
+How do you keep track of all these stories? Make a flascard for each of your mnomonic images!
+
+- Languages often have groups of "irregular" words that follow similar patterns. While you can learn each of these patterns easily with the help of illustrated stories, you may still need some way to remember which words follow which patterns.
+- Any time you run into a tricky pattern, choose a person, action or object to help you remember.
+- For verb patterns, pick a mnemonic person or an object.
+- For noun patterns, use a person or an acition.
+- Adjectives fit well with objects, and adverbs fit well with actions.
+
+#### The Power of Output: Your custom language class
+
+Self-directed writing is the ultimate personalized language class. But you need a native speaker to come in and tell you how to say whatevery you want to say.
+- Put every correction you recieve into your flash cards. That way, you'll never forget a correction.
+
+![Correction](/assets/fluent-forever-correction-card.png)
+
+- Use writing to teest out your knowledge and find your weak points.
+- Use the example sentences in your grammar book as models and write about your interesets.
+- Submit your writing to an online exchange community.
+- Turn every correction you recieve into a flash card.
+
 
 
 ---
