@@ -187,6 +187,10 @@ Self-directed writing is the ultimate personalized language class. But you need 
 - Submit your writing to an online exchange community.
 - Turn every correction you recieve into a flash card.
 
+#### Word order
+
+- Remove a word from your sentence
+- Anytime the position of a word, the form of a word, or the word itself surprises you, then learn it.
 
 
 ---
