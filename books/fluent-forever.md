@@ -105,6 +105,25 @@ It's terrybly difficult to get a student to say `lissen` when he sees a word lik
 
 ## Word Play and the Symphony of a Word
 
+- You can use certain words much more frequently than others. Learn those first.
+- Learn [these 625 words](https://fluent-forever.com/appendix5/) first 
+
+
+### Games with Words
+
+- You can make your words more memorable in two ways
+  - Investigate the sotries they tell
+  - Connect those stories to your own life
+- Use Google Images to find a vivid picture
+- Spend moment to find a link between each word and your own experience
+
+### The Gender of a Turnip
+
+"Why doesn't grammar make sense?" - Grammar is a mirror to ourselves. 
+
+- Many languages assign a nonsensical grammatical gender to each of their nouns, which is a standard source of trouble for language learners.
+- If your language has grammatical gender, you can memorize it easily if you assign each gender a pariculary vivid action and then imagine each of your nouns performing that action.
+  - masculine = exploding (exploding dog), femine = freezing (women on ice)
 
 
 
