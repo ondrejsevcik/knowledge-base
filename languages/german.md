@@ -14,8 +14,8 @@
   
 | Der | Die | Das |
 | --- |---| ---|
-| 🔥 fire | ❄️ frozen | 💦 water |
-| 💥 explosion | ⛄️ snow | 🏊 swim |
+| 🔥 fire | ❄️ frozen - Rudolf  | 💦 water |
+| 💥 explosion | ⛄️ snow - Olaf | 🏊 swim |
 | 🎆 fireworks | 🍦 ice (cream) | ☔️ rain |
 | break | ⛷ ski | 🥃 drink |
 |  | 🛑 stop | 🛀 shower/bath |
