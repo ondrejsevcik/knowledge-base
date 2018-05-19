@@ -35,3 +35,12 @@ Technique
 
 https://www.supermemo.com/en/articles/20rules
 
+card types
+- A -> B (one sided)
+- A -> B and B -> A (Reversed)
+
+Additional info
+- card has picture
+- card has sound
+- card is one sided/reversed
+
