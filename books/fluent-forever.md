@@ -240,3 +240,22 @@ TestYourVocab.com - research site to test how much vocabulary you have
 6. Whatch a full season of a dubbed TV show, reading episode summaries in your target language ahead of time.
 7. Get a ton of speech practice
 
+
+## A Guide to the Flash Cards tha will teach you your language
+
+- Use pictures insead of translations
+- Leave little remainders of those memories onyour cards (Paris, 2017). This will make your review proecss much more enjoyable and much more effective
+
+
+### The Basic Design Principles
+
+- Use each flash card as memorable as possible by linking sounds, spellings, concepts and personal connections
+- Many simple cards are better than a few comples cards.
+- Always ask for one correct answer at a time.
+- When a flash card asks you a question with more than one right answer, accept any right answer.
+- If you're having a hard time with a specific concept, then by all means add adiditional cards that put a slightly different spion on closely related information.
+
+### How to make them, how to review them
+
+
+
