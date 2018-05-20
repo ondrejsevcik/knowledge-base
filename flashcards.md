@@ -38,6 +38,7 @@ https://www.supermemo.com/en/articles/20rules
 card types
 - A -> B (one sided)
 - A -> B and B -> A (Reversed)
+- write -> you should write the answer
 
 Additional info
 - card has picture
