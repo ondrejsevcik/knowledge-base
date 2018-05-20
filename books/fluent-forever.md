@@ -193,6 +193,57 @@ Self-directed writing is the ultimate personalized language class. But you need 
 - Anytime the position of a word, the form of a word, or the word itself surprises you, then learn it.
 
 
+## Chapter 6: Language Game
+
+- 1000 words = 75% of the words you read
+- 2000 words = 80% of the words you read
+- 5500 words = 90%
+- 12500 words = 95%
+- or start to specialize your vocabulary in what you are interested into
+
+- Learn top 1000 words in your language
+- Learn 2000 top words
+- Learn remainding words by specializing in what you're interested in
+
+Use monolingual dictionary to describe your word + use also example sentence.
+
+### Self directed writing
+
+- Use Google Images to find quality example sentences and pictures for your words. It's fast, it provides clear examples, and the combination of images and sentences is easy to memorize.
+- If you run into problems or you're away from your computer, write out your own example sentences and definitions for new words. Get them corrected and use those corrections to learn both grammar and vocabulary.
+- Once you have enough vocabulary under your belt, add a monolingual dictionary to your toolbox. When you do, you'll gain the ability to learn every word in your target language, and as a bonus, your passive vocabulary will grow every time you research and memorize a new term. 
+
+> The more that you read, the more things you will know. THe more that you learn, the more places you'll go.
+
+TestYourVocab.com - research site to test how much vocabulary you have
+
+### Reading for pleasure and profit
+
+- Reading without a dictionary is the simplest, easiest way to grow your passive vocabulary. On average a single book will teach you three hundred ti five hundred words from context alone. By reading just one book in your target language, you'll make all future books and texts of any kind much easier to read.
+- By reading in conjunction with an audiobook, you'll have much easier time moving through a long text, and you'll pick up invaluable exposure to the rhythms of your language in action. This will improve your pronunciation, your listening comprehension your vocabulary, your grammer; in short, it will provide a huge boost to every aspect of your language.
+
+- TV series are easier than films
+- The problem with subtitles is that reading is easier than listening. Don't use them.
+
+### Listening comprehension for couch potatoes
+
+- Listening is a fast-paced skill that can sometimes feel overwhelming. Take baby steps, and gradually rump up the challenge until you can handle the fastest and hardest of listening challenges (radio, podcasts, ridiculous grabled train station announcments). 
+- Start with an interesting foreign TV or dubbed American TV series without subtitles. You can dial down the difficulty by reading episode summaries ahead of time, in order to prepare yourself for the vocabulary and plot twists of each episode.
+- As your comfort level grows, wean yourself off summaries and begin watching and listening to more challenging media.
+
+### Explore your language
+
+1. Sound Play: Learn how to hear and produce the sounds of your target language and how spelling and sound interrelate.
+2. Word Play: Learn 625 frequent, concre words
+3. Sentence Play: Behind turning the sentences in your grammar book into flash cards for new words, word forms, and word order.
+4. Learn basic grammar
+4. Learn the top 1000 words in your target language
+5. Go back to your grammar book, and skimm through it and gram any remanining bits of information you'd like.
+6. Whatch a full season of a dubbed TV show, reading episode summaries in your target language ahead of time.
+7. Get a ton of speech practice
+
+
+
 ---
 
 ![Book mindmap](/assets/fluent-forever-mindmap.jpeg)
