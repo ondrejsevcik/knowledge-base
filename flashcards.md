@@ -46,3 +46,11 @@ Additional info
 
 
 How to learn a language https://www.youtube.com/watch?v=ROh_-RG3OVg
+
+
+## Types of flashcards
+
+### Spelling and Sound
+
+![](http://4boz9c1xneye2wh6s235261r-wpengine.netdna-ssl.com/wp-content/uploads/2014/05/Screen-Shot-2014-05-02-at-2.14.02-PM.png)
+
