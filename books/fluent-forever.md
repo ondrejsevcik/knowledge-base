@@ -257,5 +257,59 @@ TestYourVocab.com - research site to test how much vocabulary you have
 
 ### How to make them, how to review them
 
+Essential facts
+- Picture
+- Pronunciation
+
+Bonus points 
+- Personal Connections
+- Similar-Sounding words
+- Related Words
+
+### Pronunciation trainers
+
+- Sound
+- Spelling
+- Example Word
+
+Card types
+- What does this spelling sound like?
+- How do you spell this word?
+
+### Your first words
+
+- spelling
+- pronunciation
+- Picture
+- Personal connection
+- Gender - mnemonic imagery game
+
+
+Card types
+- What dies this word mean?
+- What's the word for this picture?
+- How do you spell this word?
+
+
+### Multiple Definitions
+
+`Bar` means a chocolate bar or a place where people usually drink. Create two separate cards for each meaning and accept any correct answer.
+
+### Synonyms 
+
+- Avoid synonyms when learning your first `625` words. You don't need them yet. 
+- Bear in mind that no two words are `exactly` alike.
+- Make multiple definitions for such a words.
+
+### Category Words
+
+- Words like `Animals` are category words. Use other simple words like `cat`, `dog`, `elefant` to describe category words.
+- You can use this strategy even for abstract words like `noun` and `verb`
+
+### Words with Easily Confounded Images
+
+- `Girl` and `Daughter` have a same picture
+- Add a personal note to those cards (e.g. name, or another clue - write `Atlantic` to indicate that it's a see and not a lake)
+
 
 
