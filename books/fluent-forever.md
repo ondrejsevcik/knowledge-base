@@ -312,4 +312,12 @@ Card types
 - Add a personal note to those cards (e.g. name, or another clue - write `Atlantic` to indicate that it's a see and not a lake)
 
 
+### Mnemonic Imagery
+
+- These cards are not vocabulary
+- Use these to keep track of mnemonic imagery
+- `Q: What's the mnemonic for feminine nouns?  A: Olaf` and `Q: What this mnemonic signify? (picture of Olaf)  A: Femine gender`
+
+
+
 
