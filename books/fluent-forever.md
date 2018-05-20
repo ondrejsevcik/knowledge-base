@@ -1,8 +1,6 @@
 # Fluent Forever: How to Learn Any Language Fast and Never Forget It
 
-⭐️⭐️⭐️⭐️
-
-![Book cover](https://images-na.ssl-images-amazon.com/images/I/41bkmK1DCRL.jpg)
+![Book mindmap](/assets/fluent-forever-mindmap.jpeg)
 
 ---
 
@@ -242,10 +240,3 @@ TestYourVocab.com - research site to test how much vocabulary you have
 6. Whatch a full season of a dubbed TV show, reading episode summaries in your target language ahead of time.
 7. Get a ton of speech practice
 
-
-
----
-
-![Book mindmap](/assets/fluent-forever-mindmap.jpeg)
-
-![Table review](/assets/fluent-forever-table-review.jpeg)
