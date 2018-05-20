@@ -14,7 +14,7 @@
   
 | Der | Die | Das |
 | --- |---| ---|
-| 🔥 fire - Arnold | ❄️ frozen - Rudolf  | 💦 water - Jackie Chan |
+| 🔥 fire - Arnold | ❄️ frozen - Rudolf  | 💦 water - Asia |
 | 💥 explosion | ⛄️ snow - Olaf | 🏊 swim |
 | 🎆 fireworks | 🍦 ice (cream) - Taylor | ☔️ rain |
 | break | ⛷ ski | 🥃 drink |
