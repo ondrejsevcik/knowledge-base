@@ -44,3 +44,5 @@ Additional info
 - card has sound
 - card is one sided/reversed
 
+
+How to learn a language https://www.youtube.com/watch?v=ROh_-RG3OVg
