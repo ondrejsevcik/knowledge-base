@@ -18,3 +18,6 @@
 4. Cut
 
 
+Maybe add a bit or honey and a bit more oli so it's not that dry
+
+
