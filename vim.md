@@ -20,6 +20,8 @@
   - `:r !ls` - reads the output of the dir command and puts it below the cursor position.
 - `R` - replace mode. Like insert mode but deletes existing characters
 - When typing a  `:` command, press `Ctrl-d` to see possible completions. Press `<TAB>` to use one completion.
+- `q/` - opens a command window with history of searches
+- `q:` - opens a command window with history of Ex commands
 
 #### Copy & move
 
@@ -48,8 +50,7 @@
   - `>` - end of visual selection
 - `:1,10d` - delete lines 1-10
   - `:.,$copy` - copy from current line `.` till the end `$`
-    
-  
+
 
 ### Substitute cmds
 
