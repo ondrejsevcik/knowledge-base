@@ -205,25 +205,6 @@ Er ist mein jüngerer Bruder. (He's my younger brother.)
 
 ## Other
 
-### Use `es gibt` to express that something exists in a certain location
-
-To do that, we use the personal pronoun "es" (it) together with the verb "geben" (to give). In this combination, "es gibt" means there is/there are. The phrase does not change whether it is describing one or many things!
-
-"Es gibt" is always followed by an **object** in the **accusative case**.
-
-```
-Es gibt eine Straße in meiner Stadt.
-Es gibt drei Wohnungen in meinem Haus.
-
-# Question - reverse
-Gibt es hier eine Apotheke?
-Gibt es einen Supermarkt in deiner Stadt?
-
-# Negative - keine
-Es gibt keinen Supermarkt in meinem Dorf.
-Es gibt keine Apotheke in der Nähe.
-```
-
 ### Asking a Question in German With a `W-Word`
 
 | English | German |
