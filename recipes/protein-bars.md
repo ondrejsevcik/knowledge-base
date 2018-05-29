@@ -13,7 +13,7 @@
 ## Preparation
 
 1. Mix everything possible in blender
-2. Put everything into one bowl and mix it up
+2. Put everything into one bowl and mix it up (ℹ️ use baking paper)
 3. Put into the fridge for `2h`
 4. Cut
 
