@@ -26,6 +26,7 @@
 - Tie clip
 - Shirt
 - Sunscreen ☀️
+- Camera 📸 + SD Card
 
 
 
