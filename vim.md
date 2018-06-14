@@ -23,6 +23,7 @@
 - `q/` - opens a command window with history of searches
 - `q:` - opens a command window with history of Ex commands
 - `2,$!sort -k2` - execute `sort` cmd in terminal on lines `2-end` with `-k2` arg to sort by items in second column
+- `edit %:h` - edit active file directory
 
 #### Copy & move
 
