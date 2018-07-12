@@ -74,6 +74,7 @@
 
 - `daw` deletes the whole word wherever the cursor is
 - `dip` `d`elete `i`nside `p`aragraph
+- `das` `d`elete `a`round `s`entence
 - `di{` `d`elete `i`nside `{` curly braces
 - `vip` `v`isual select `i`nside `p`aragraph
 - `cip` `c`hange `i`nside `p`aragraph
