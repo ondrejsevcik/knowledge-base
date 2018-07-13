@@ -94,6 +94,16 @@
 - `zt` - scroll view so that cursor is aligned to the `t`op
 - `zz` - scroll view so thet cursor is aligned in the middle
 - `zb` - scroll view so that cursor is aligned to the `b`ottom
+  
+### Automatic Marks
+
+- `"` position before the last jump within current file
+- `'.` location of last change
+- `'^` location of last insertion
+- `'[` start of last change or yank
+- `']` end of last change or yank
+- `'<` start of last visual selection
+- `'>` end of last visual selection
 
   
 ### Tabs
