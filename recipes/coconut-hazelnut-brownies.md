@@ -1,5 +1,7 @@
 # Coconut/Hazelnut brownies
 
+![My version this recipe](/assets/coconut-hazelnut-brownies.png)
+
 ## Ingredients
 
 - `150g` chocolate (70%+)
