@@ -10,7 +10,7 @@
 - `100g` chocolate bar (melted using a water bath)
 - `400ml` soy milk (might be flavored)
 
-## Preparation
+## Method
 
 1. Mix everything possible in blender
 2. Put everything into one bowl and mix it up (ℹ️ use baking paper)
