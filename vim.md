@@ -140,9 +140,16 @@
 
 ## Registers (a.k.a. clipboard)
 
+- `"{register-name}{y|p|d}`
 - `"byy` copy to `b` register
 - `"bp` paster from `b` register
 - `"bdd` delete to `b` register
+- `o` register holds what was `yank`ed most recently
+- lowercase letter overwrites register, uppercase appends to it
+- `"_` black hole register - a place from which nothing returns
+- `+` register references system clipboard (`"+p`, `"+y`)
+
+
 
 ## Insert mode
 
