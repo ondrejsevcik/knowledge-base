@@ -163,3 +163,9 @@
 - `Ctrl+v` block-wise visual mode
 - `gv` reselect the last visual selection
 - `o` go to the other end of visual selection
+
+## Macros
+
+- `q{a-z}` to record
+- `@{a-z}` to replay
+- `@@` to replay the most recently replayed macro
