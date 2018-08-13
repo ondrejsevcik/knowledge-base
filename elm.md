@@ -39,3 +39,11 @@
 - How to handle 404, 301 redirects etc.
 - How to do Drag&Drop
 - How to Localize app
+
+# Dev tips
+
+## Working with Maybe
+
+- Actively try to model your data structures to avoid `Maybe`
+- Separate code that checks for presence from code that calculates values
+- Business functions may return `Maybe`, but may not accept `Maybe` as any of it's arguments
