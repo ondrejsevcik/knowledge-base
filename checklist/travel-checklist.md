@@ -49,6 +49,7 @@
 - Smartphone
 - Running shoes
 - Trekking sticks
+- Sweatband / Headband
 
 
 
