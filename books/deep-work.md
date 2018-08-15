@@ -91,3 +91,15 @@ When you attention slips away, remind yourself that you can return to that thoug
 Use 16 hours outside your work to work on yourself and improve your life. Put more thought into your leisure time.
 It's crucial to put a thought into what you're going to do with your evenings and weekends before they begin.
 
+
+## Rule #4: Drain the shallows
+
+### Schedule every minute of your day
+> We spend much time of a day in autopilot. It's a difficult to avoid shallow when you don't think about what you're going to do.
+
+- Goal is not to stick with a schedule at all costs
+- It is okay to ignore rest of the schedule if something important or insightful comes into it
+
+### Quantify depth of every activity
+
+How long would it take to train a smart colleague graduate with no specialized training in my field to complete this task? If the answer is many months, that indicated that task leverages hard-won expertise.
