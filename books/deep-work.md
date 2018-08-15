@@ -44,3 +44,23 @@ We live in an era where anything Internet related is understood by default to be
 
 Jobs are easier to Enjoy than free time. They generate value and have built-in goals.
 
+
+## Rule #1: Work deeply
+
+You have a limited willpower to concentrate and stay in a state of deep work, but habits will help
+
+**Rhytmic phylosofy** - Generate a rhythm and avoid wasting time on deciding when to go deep
+
+There is no "one correct" deep work ritual, but every ritual should address these questions (Finding a correct one might require experimentation).
+
+- Where you will work and for how long
+- How you'll work once you start work (What you use, what is banned,...)
+- How you'll support your work ("Walk before, cup of coffee,...)
+
+### Execute like a business
+
+1. Focus on a wildly important - The more you try, the less you actually acomplish
+2. Measure your success - e.g.: Time spent in a state of a deep work dedicated toward your wildly important goal
+3. Keep a compelling scoreboard - "People play differently when they're keeping score"
+4. Create a cadence of Accountability
+
