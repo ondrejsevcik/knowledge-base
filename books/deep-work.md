@@ -34,3 +34,13 @@ When switching from Task A to Task B, your mind doesn't imediatelly follow and s
 In the absence of clear indicators of what it means to be productive and valuable in their jobs, many knowledge workers turn back toward an industrial indicator of productivity - doing lots of stuff in a visible manner.
 
 
+## Deep work is Meaningful
+
+We live in an era where anything Internet related is understood by default to be innovative and necessary. Depth destroying behaviours such as immediate email responses and an active social media presence are lauded, while avoidance of these trends generate suspicion.
+
+> Who you are, what you think, feel and do, what you love - is the sum of what you focus on
+
+> Idle mind is a devils workshop - when you lose focus, your mind tends to fix on what could be wrong with your life instead of what's right
+
+Jobs are easier to Enjoy than free time. They generate value and have built-in goals.
+
