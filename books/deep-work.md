@@ -64,3 +64,18 @@ There is no "one correct" deep work ritual, but every ritual should address thes
 3. Keep a compelling scoreboard - "People play differently when they're keeping score"
 4. Create a cadence of Accountability
 
+
+## Rule #2: Embrace boredom
+
+> The ability to concentrate deeply is a skill that must be trained
+
+Constant online attention switching has a negative impact on your brain. People who multitask all the time can't filter out irrelevant. They can't manage working memory. They're chronically distracted. They initiate much larger parts of their brain that are irrelevant to the task at hand... they are pretty much mental wrecks. 
+
+### Don't take breaks from distraction. Instead take breaks from Focus.
+
+Constant switching from from low-stimuli/high value activities, at the slightest hint of boredom or cognitive challenge, that teaches your mind to never tolerate an absence of novelty.
+
+To succeed, you must rewire your brain to be comfortable resisting distracting stimuli. It's sufficient that you eliminate the ability of such behaviours to hijack your attention.
+
+#### Be wary of Distractions and Looping
+When you attention slips away, remind yourself that you can return to that though later and redirect your attention back
