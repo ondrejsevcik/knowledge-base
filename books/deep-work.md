@@ -20,3 +20,17 @@
 
 When switching from Task A to Task B, your mind doesn't imediatelly follow and still thinks about Task A. It's better to work on one task for a longer time than constantly switching.
 
+
+## Deep work is Rare
+
+### Big businesses prevent people going deep
+
+- Facebook introducing open offices,...
+- People expect you to read and respond to email in a timely manner
+- Regular meetings - they are easy to schedule, but don't add much value
+  
+### Business as a proxy for Productivity
+
+In the absence of clear indicators of what it means to be productive and valuable in their jobs, many knowledge workers turn back toward an industrial indicator of productivity - doing lots of stuff in a visible manner.
+
+
