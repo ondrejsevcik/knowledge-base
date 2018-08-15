@@ -79,3 +79,15 @@ To succeed, you must rewire your brain to be comfortable resisting distracting s
 
 #### Be wary of Distractions and Looping
 When you attention slips away, remind yourself that you can return to that though later and redirect your attention back
+
+
+## Rule #3: Quit Social Media
+
+- Any-benefit approach - when you find any good reason for using the tool/service
+- Craftsman approach - When you also consider the cons of using tool/service (time invested,consumed,...)
+
+### Don't use internet to entertain yourself
+
+Use 16 hours outside your work to work on yourself and improve your life. Put more thought into your leisure time.
+It's crucial to put a thought into what you're going to do with your evenings and weekends before they begin.
+
