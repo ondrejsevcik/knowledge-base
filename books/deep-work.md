@@ -62,7 +62,7 @@ There is no "one correct" deep work ritual, but every ritual should address thes
 1. Focus on a wildly important - The more you try, the less you actually accomplish
 2. Measure your success - e.g.: Time spent in a state of a deep work dedicated toward your wildly important goal
 3. Keep a compelling scoreboard - "People play differently when they're keeping score"
-4. Create a cadence of Accountability
+4. Create a cadence of Accountability - Weekly review (plan improvements, week ahead, ...)
 
 
 ## Rule #2: Embrace boredom
