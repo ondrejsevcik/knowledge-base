@@ -103,4 +103,4 @@ It's crucial to put a thought into what you're going to do with your evenings an
 
 ### Quantify depth of every activity
 
-How long would it take to train a smart colleague graduate with no specialized training in my field to complete this task? If the answer is many months, that indicated that task leverages hard-won expertise.
+How long would it take to train a smart college graduate with no specialized training in my field to complete this task? If the answer is many months, that indicated that task leverages hard-won expertise.
