@@ -60,3 +60,16 @@ switch(order.status) {
 ## Semantics !== visual style
 
 When you have a `<h3>Header</h3>` it doesn't mean it should always look like a header. When you have `<a href="...` it doesn't mean it should always look like a link. Don't style elements, **always use classes**.
+
+
+## Other tips
+
+- `px` means `CSS pxiel`
+- 66 letters is ideal on one line (45-75 is acceptable)
+- Fonts - when in doubt, use `Georgia` for text and `Verdana` for headings (fontpair.co, [Font style tests](https://github.com/machal/blanka-html))
+- Colors - coolors.co
+- Use `em` for Media queries ([source](https://zellwk.com/blog/media-query-units/))
+- Don't use reset for css, use normalizer (normalize.css)
+- `<svg viewbox="0 0 100 50">` svg is `100px` wide, `50px` height and it's coordinate system starts from `0` `0`
+- hover effects are less significant in an upcoming world of touch devices
+- Use flexbox and grid for layout, you probably don't need anything else
