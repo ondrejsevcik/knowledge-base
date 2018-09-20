@@ -1,6 +1,7 @@
 # Programming
 
 - [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html)
+- [Exceptions](https://www.joelonsoftware.com/2003/10/13/13/)
 
 ## Some wisdom
 
