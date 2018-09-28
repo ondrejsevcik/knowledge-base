@@ -18,7 +18,6 @@
     - Not safe approach
     - To much work for one guy
   - No regular updates on blog nor the libraries
-- Missing good Routing library
 - No serverside rendering
 - Sometimes code is unecessary long
   - `let in` tends to spread across a lot of lines
@@ -35,7 +34,6 @@
 
 - How to do integration testing
 - How to do acceptance testing
-- How to utilize Routing (incliding query params)
 - How to handle 404, 301 redirects etc.
 - How to do Drag&Drop
 - How to Localize app
