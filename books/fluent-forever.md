@@ -110,7 +110,7 @@ It's terrybly difficult to get a student to say `lissen` when he sees a word lik
 ### Games with Words
 
 - You can make your words more memorable in two ways
-  - Investigate the sotries they tell
+  - Investigate stories they tell
   - Connect those stories to your own life
 - Use Google Images to find a vivid picture
 - Spend moment to find a link between each word and your own experience
