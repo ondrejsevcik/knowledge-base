@@ -69,6 +69,7 @@
 ```shell
 /Ack "old" # will populate quick-fix list
 :cfdo %s/old/new/gc # will ask you if you want to replace 'old' with 'new' for each occurence in quick-fix list
+:wa #write all to disk
 ```
 
 
