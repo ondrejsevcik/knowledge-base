@@ -16,6 +16,7 @@
 > Over-engineering = code transformation based on the speculation for the future.
 > - https://twitter.com/tjaskula/status/977867361817694209?s=12
 
+> Comments should describe things that are not obvious from code
 
 
 
