@@ -20,7 +20,7 @@
 - Raincoat
 - Bag (with a raincoat)
 - Pen
-- Present for locals
+- Gift (for locals)
 - Rope (to hang clothes)
 - Tie
 - Tie clip
@@ -34,6 +34,12 @@
 - Hat
 - Gloves
 
+## Skiing
+- Backpack (with back protector)
+- Freizeitticket
+- Helmet
+- Ski poles
+- Camera
 
 
 ## Running
@@ -48,7 +54,7 @@
 - Headphones
 - Smartphone
 - Running shoes
-- Trekking sticks
+- Trekking poles
 - Sweatband / Headband
 
 
