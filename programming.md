@@ -4,6 +4,7 @@
 - [Exceptions](https://www.joelonsoftware.com/2003/10/13/13/)
 - [Workflows on Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw)
 - [Guide: Writing Testable Code](http://misko.hevery.com/code-reviewers-guide)
+- [Curated list of falsehoods programmers believe in](https://github.com/kdeldycke/awesome-falsehood)
 
 
 ## Some wisdom
