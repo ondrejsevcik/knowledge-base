@@ -22,6 +22,6 @@
 
 ## Tests
 
-- [ ] Are the tests covering all side cases?
+- [ ] Are the tests covering all edge cases?
 - [ ] Do tests test one thing?
 - [ ] Are they readable?
