@@ -77,6 +77,7 @@
 
 - `/\ccase insensitive search` - use `\c` switch
 - `/\Ccase sensitive search` - use `\C` switch
+- `g*` search for word under cursor with partial word matching
 
 ## Text editing
 
