@@ -55,7 +55,7 @@
 
 > I think we're tragically unaware of our history, and I'm often really disappointed to see that people who are now practicing this craft having no intellectual curiosity about where this stuff came from.
 
-# Brendan Eich 
+## Brendan Eich 
 
 > You see crazy, idiotic statements about how dynamic language are going to totally unseat Java and static languages, which is nonsense.
 
