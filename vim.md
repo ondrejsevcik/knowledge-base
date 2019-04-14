@@ -147,6 +147,17 @@
 - `zW` mark word as wrong word for current instance
 - `z=` suggest correction
 
+## Netrw explorer 
+
+- `-` go one level up in direcotry tree
+- `:Vex` vertical split
+- `:Sex` horizontal split
+- `%` create new file
+- `R` rename file
+- `D` delete file
+- `d` create new dir
+- `i` change view
+
 ## Registers (a.k.a. clipboard)
 
 - `"{register-name}{y|p|d}`
