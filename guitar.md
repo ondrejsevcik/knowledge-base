@@ -1,3 +1,0 @@
-# Guitar
-
-- `arpeggio` - broken chord
