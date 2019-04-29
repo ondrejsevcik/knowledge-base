@@ -37,6 +37,7 @@
 - How to handle 404, 301 redirects etc.
 - How to do Drag&Drop
 - How to Localize app
+- How to handle deprecations
 
 # Dev tips
 
