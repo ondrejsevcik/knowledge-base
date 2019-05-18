@@ -1,7 +1,5 @@
 # The Coding Dojo Handbook
 
-![Book Cover](https://s3.amazonaws.com/titlepages.leanpub.com/codingdojohandbook/hero?1518047894)
-
 ## Intro
 
 http://codingdojo.org
