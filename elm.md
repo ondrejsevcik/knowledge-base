@@ -13,16 +13,8 @@
 
 ## Cons
 
-- Slow development of the ecosystem
-  - One leader to follow
-    - Not safe approach
-    - To much work for one guy
-  - No regular updates on blog nor the libraries
-- No serverside rendering
-- Sometimes code is unecessary long
-  - `let in` tends to spread across a lot of lines
-- Acceptance testing
-  - External tools are required (most likely JS tools)
+- One leader to follow
+- No regular updates on blog nor the libraries
   
 # Resources
 
@@ -37,7 +29,6 @@
 - How to handle 404, 301 redirects etc.
 - How to do Drag&Drop
 - How to Localize app
-- How to handle deprecations
 
 # Dev tips
 
