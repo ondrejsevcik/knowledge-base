@@ -1,5 +1,9 @@
 # Git tricks
 
+Count the commits for the branch you are on
+<br>
+`git rev-list --count <branch-name>|HEAD`
+
 List authors, commit count and email 
 <br>
 `git shortlog --email --summary --numbered` 
