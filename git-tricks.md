@@ -1,5 +1,7 @@
 # Git tricks
 
+https://github.com/git-tips/tips
+
 Count the commits for the branch you are on
 <br>
 `git rev-list --count <branch-name>|HEAD`
@@ -12,3 +14,6 @@ Merge commits from origin/master into local master while being (possibly) in ano
 <br>
 `git fetch origin master:master` 
 
+Remove branches that have already been merged with master
+<br>
+`git branch --merged master | grep -v '^\*' | xargs -n 1 git branch -d`
