@@ -2,7 +2,6 @@
 
 - [Software Testing Anti-patterns](http://blog.codepipes.com/testing/software-testing-antipatterns.html)
 - [Exceptions](https://www.joelonsoftware.com/2003/10/13/13/)
-- [Workflows on Refactoring](https://www.youtube.com/watch?v=vqEg37e4Mkw)
 - [Guide: Writing Testable Code](http://misko.hevery.com/code-reviewers-guide)
 - [Curated list of falsehoods programmers believe in](https://github.com/kdeldycke/awesome-falsehood)
 - [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
