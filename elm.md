@@ -20,6 +20,7 @@
 
 - http://elmprogramming.com
 - https://www.elm-tutorial.org
+- https://orasund.gitbook.io/elm-cookbook/
 
 
 # Unanswered questions
