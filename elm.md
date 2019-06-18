@@ -10,6 +10,7 @@
   - but alos requires passing stuff around and adds lines of code
 - Immutable
 - elm-format - automatic formatting of the code
+- "compiler driven development"
 
 ## Cons
 
