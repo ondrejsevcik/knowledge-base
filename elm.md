@@ -34,6 +34,8 @@
 
 # Dev tips
 
+- [Patterns for default values](https://discourse.elm-lang.org/t/pattern-for-default-values/3933)
+
 ## Working with Maybe
 
 - Actively try to model your data structures to avoid `Maybe`
