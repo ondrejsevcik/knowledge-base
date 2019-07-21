@@ -15,7 +15,6 @@
 ## Cons
 
 - One leader to follow
-- No regular updates on blog nor the libraries
   
 # Resources
 
