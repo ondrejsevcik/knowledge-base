@@ -35,6 +35,7 @@
 # Dev tips
 
 - [Patterns for default values](https://discourse.elm-lang.org/t/pattern-for-default-values/3933)
+- [Performant Elm](https://juliu.is/performant-elm/)
 
 ## Working with Maybe
 
