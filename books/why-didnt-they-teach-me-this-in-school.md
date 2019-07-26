@@ -9,7 +9,7 @@
   - Remember birthdays. Remember anniversaries.
 - Pay for your Money magazine
 - Get rich slowly
-  - 99% of millionaires earned thei money over time
+  - 99% of millionaires earned they money over time
   - enjoy the journey
 - Set short-term financial goals
 - Set long-term financial goals
