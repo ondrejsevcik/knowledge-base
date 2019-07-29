@@ -64,4 +64,16 @@ Feedback loop
 - Vision
     - Aspirational document that enable individuals who don’t work together closely to make decisions that fit together closely
 
+### Metrics and baselines 
+
+- After some time, discussion shift from projects to goals
+    - Goals let you define "what", not "how"
+- Defining clear goals takes a practice
+
+1. a **target** states wher you want to reach
+2. a **baseline** identifies where you are today**
+3. a **trend** describes the current velocity
+4. a **time frame** sets bounds for the change
+        
+> Example: In Q3, we will reduce time to render our frontpage from 600ms to 300ms. In Q2, render time increased from 500ms to 600ms.
 
