@@ -167,7 +167,7 @@
 - `o` register holds what was `yank`ed most recently
 - lowercase letter overwrites register, uppercase appends to it
 - `"_` black hole register - a place from which nothing returns
-- `+` register references system clipboard (`"+p`, `"+y`)
+- `*` register references system clipboard (`"*p`, `"*y`)
 
 
 
