@@ -77,3 +77,6 @@ Feedback loop
         
 > Example: In Q3, we will reduce time to render our frontpage from 600ms to 300ms. In Q2, render time increased from 500ms to 600ms.
 
+### Guiding broad organizational change with Metrics
+
+Use metrics and dashboards to nudge people into change (very effective, scalable)
