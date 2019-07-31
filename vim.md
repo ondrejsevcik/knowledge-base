@@ -170,6 +170,14 @@
 - `*` register references system clipboard (`"*p`, `"*y`)
 
 
+## Buffers
+
+- `:buffers` or `:ls` to list all open buffers
+- `:ball` opens all buffers in windows
+- `:bd` close current buffer (buffer delete)
+- `:bnext` or `:bn`
+- `:bprev` or `:bp
+
 
 ## Insert mode
 
