@@ -80,3 +80,11 @@ Feedback loop
 ### Guiding broad organizational change with Metrics
 
 Use metrics and dashboards to nudge people into change (very effective, scalable)
+
+### Migrations - the sole scalable fix to tech debt
+
+- Most tools and processes only support about one order of magnitude of growth before becoming ineffective
+- Migrations are usually the only available avenue to make meaningful progress on technical debt
+- Don’t start with the easiest migration, this can lead to false security. 
+- The best migrations are incremental and reversible
+- The last phrase of migration is to deprecate the legacy system that was replaced.
