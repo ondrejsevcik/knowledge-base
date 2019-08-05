@@ -179,6 +179,15 @@
 - `:bprev` or `:bp
 
 
+## Windows
+
+- `Ctrl+w =` resize windows equally
+- `Ctrl+w 10 >` change width to left by 10
+- `Ctrl+w 10 <` change width to right by 10
+- `Ctrl+w 10 +` incerease height by 10
+- `Ctrl+w 10 -` decrease height by 10
+
+
 ## Insert mode
 
 - `Ctrl+w` delete back one word
