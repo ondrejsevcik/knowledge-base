@@ -188,6 +188,7 @@
 - `Ctrl+w 10 -` decrease height by 10
 - `:res[ize] +10` increase window height/width by 10
 - `:res[ize] -10` decrease window height/width by 10
+- `z10` set height/width to 10
 
 
 ## Insert mode
