@@ -186,6 +186,8 @@
 - `Ctrl+w 10 <` change width to right by 10
 - `Ctrl+w 10 +` incerease height by 10
 - `Ctrl+w 10 -` decrease height by 10
+- `:res[ize] +10` increase window height/width by 10
+- `:res[ize] -10` decrease window height/width by 10
 
 
 ## Insert mode
