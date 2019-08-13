@@ -120,10 +120,7 @@
 - `gt` (or `:tabn`) - to go to next tab
 - `gT` (or `:tabp` or `:tabN`) - to go to previous tab
 - `#gt` (or `:tabn #`) - to go to #th tab
-  
-### Splits
 
-- `Ctrl+w` followed by capital `H`,`J`,`K` or `L` will move the current window to the far left, bottom, top or right respectively like normal cursor navigation
 
 ## Motions
 
@@ -190,6 +187,10 @@
 - `:res[ize] -10` decrease window height/width by 10
 - `z10` set height/width to 10
 
+### Splits
+
+- `Ctrl+w` followed by capital `H`,`J`,`K` or `L` will move the current window to the far left, bottom, top or right respectively like normal cursor navigation
+- `Ctrl+w` followed by `Shift+T` will move split to new tab
 
 ## Insert mode
 
