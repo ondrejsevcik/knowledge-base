@@ -205,6 +205,15 @@
 - `gv` reselect the last visual selection
 - `o` go to the other end of visual selection
 
+## Folding
+
+> Collapsing multiple lines of text into single line
+
+- `zf{motion}` - fold (e.g.: `zf{` folds inside `{}` brackets)
+- `zc` - close fold
+- `zo` - open fold
+- `zd` - delete fold under cursor (not text, just fold)
+
 ## Macros
 
 - `q{a-z}` to record
