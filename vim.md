@@ -210,6 +210,9 @@
 > Collapsing multiple lines of text into single line
 
 - `zf{motion}` - fold (e.g.: `zf{` folds inside `{}` brackets)
+- `za` - toggle fold
+- `zR` - open all folds in current buffer
+- `zM` - close all folds in current buffer
 - `zc` - close fold
 - `zo` - open fold
 - `zd` - delete fold under cursor (not text, just fold)
