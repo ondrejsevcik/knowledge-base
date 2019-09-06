@@ -173,7 +173,7 @@
 - `:ball` opens all buffers in windows
 - `:bd` close current buffer (buffer delete)
 - `:bnext` or `:bn`
-- `:bprev` or `:bp
+- `:bprev` or `:bp`
 
 
 ## Windows
