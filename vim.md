@@ -174,7 +174,7 @@
 - `:bd` close current buffer (buffer delete)
 - `:bnext` or `:bn`
 - `:bprev` or `:bp`
-
+- `:only[!]` close all other buffers except this one (add ! to close even unsaved ones)
 
 ## Windows
 
