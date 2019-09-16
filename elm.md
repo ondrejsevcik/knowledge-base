@@ -18,6 +18,7 @@
   
 # Resources
 
+- https://guide.elm-lang.org/
 - http://elmprogramming.com
 - https://www.elm-tutorial.org
 - https://orasund.gitbook.io/elm-cookbook/
