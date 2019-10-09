@@ -222,3 +222,8 @@
 - `q{a-z}` to record
 - `@{a-z}` to replay
 - `@@` to replay the most recently replayed macro
+
+## External commands
+
+- `:%!<command>` - runs external command with current buffer content
+- `:%!sort` will run `sort` with current buffer
