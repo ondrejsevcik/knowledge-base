@@ -174,7 +174,6 @@
 - `:bd` close current buffer (buffer delete)
 - `:bnext` or `:bn`
 - `:bprev` or `:bp`
-- `:only[!]` close all other buffers except this one (add ! to close even unsaved ones)
 
 ## Windows
 
@@ -186,6 +185,7 @@
 - `:res[ize] +10` increase window height/width by 10
 - `:res[ize] -10` decrease window height/width by 10
 - `z10` set height/width to 10
+- `:only[!]` close all other windows except this one (add ! to close even unsaved ones)
 
 ### Splits
 
