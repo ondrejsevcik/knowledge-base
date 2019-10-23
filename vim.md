@@ -174,6 +174,7 @@
 - `:bd` close current buffer (buffer delete)
 - `:bnext` or `:bn`
 - `:bprev` or `:bp`
+- `%bd` delete all unsaved buffers (it will refuse to delete unsaved ones)
 
 ## Windows
 
