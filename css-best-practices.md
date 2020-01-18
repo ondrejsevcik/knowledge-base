@@ -72,4 +72,3 @@ When you have a `<h3>Header</h3>` it doesn't mean it should always look like a h
 - Don't use reset for css, use normalizer (normalize.css)
 - `<svg viewbox="0 0 100 50">` svg is `100px` wide, `50px` height and it's coordinate system starts from `0` `0`
 - hover effects are less significant in an upcoming world of touch devices
-- Use flexbox and grid for layout, you probably don't need anything else
