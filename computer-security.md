@@ -29,6 +29,7 @@
   - Messenger
   - WhatsApp
   - Telegram
+  - Signal
   - ...
 - Social networks
   - Twitter
