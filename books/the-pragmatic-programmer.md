@@ -14,3 +14,6 @@
 - Be a catalyst for change
   - "It's easier to ask forgiveness than it is to get permission."
   - When you know something is right, just do it.
+- Knowledge is an expiring asset
+  - Make learninig a habit
+
