@@ -20,3 +20,39 @@
 - Focus on system! Everyone has the same goal = be the best in something!
 - Goals are good for setting direction, but system are for making progress.
 
+## How your habits shape your identity
+
+- Three layers of behavior change
+  - Outcomes - What you get - Losing weight, publishing a book, ...
+  - Process - What you do - Implementing a new routine, ...
+  - Identity - What you believe - Changing your beliefs, self-image, judgments, ...
+- Outcome-based habits vs. Identity-based habits
+  - Outcome based - "No, thanks. I'm trying to quit smoking."
+  - Identity based - "No thanks. I'm not a smoker."
+    - The goal is not to run a marathon, the goal is to become a runner.
+    - Many people blindly follow the norms attached to their identity
+      - I'm bad at ...
+      - Progress requires unlearning - expand your identity.
+- Who you are is what you do.
+  - Decide the type of person you want to be.
+  - Prove it to yourself with small wins.
+
+## How to build better habits in 4 simple steps
+
+1. Cue - Make it obvious
+2. Craving - Make it attractive
+3. Response - Make it easy
+4. Reward - Make it satisfying
+
+# The 1st Law - Make it obvious
+
+- Start behavior change with awernes
+- Habits scorecard
+  - List of things you do every day (Wake up, Check my phone, take a shower, ...) 
+  - with `+/-/=` signs to mark good/bad/neutral habits
+    - Does this behavior help me become the type of person I wish to be?
+- Make as specific plan as possible (time and location)
+  - Bad - Write more
+  - Good - Every day, after dinner, I will sit in my couch and write for 30 minutes
+- Habit stacking - form a new habit based on existing one
+  - After I pour my morning cup of coffee, I will meditate for sixty seconds.
