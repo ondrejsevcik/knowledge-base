@@ -16,4 +16,10 @@
   - When you know something is right, just do it.
 - Knowledge is an expiring asset
   - Make learninig a habit
+- Prototype to learn
+  - Correctness
+  - Completness
+  - Robustness (error checking)
+  - Style
+  - and then throw it away (it's prototype!)
 
