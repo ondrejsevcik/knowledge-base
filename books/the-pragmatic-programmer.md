@@ -22,4 +22,7 @@
   - Robustness (error checking)
   - Style
   - and then throw it away (it's prototype!)
-
+- Estimate with multiple scenarios
+  - Pessimistic and optimistic estimate
+  - "If everthing goes right, it might be a few hours, but more realisticaly about 1 day, and if the weather turns out to be bad, then as much as week."
+  - "I will get back to you" - take some time for more precise estimate
