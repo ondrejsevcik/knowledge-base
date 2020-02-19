@@ -56,3 +56,19 @@
   - Good - Every day, after dinner, I will sit in my couch and write for 30 minutes
 - Habit stacking - form a new habit based on existing one
   - After I pour my morning cup of coffee, I will meditate for sixty seconds.
+
+## Motivation is overrated
+
+- Environment is the invisible hand that shapes human behavior.
+- Be the designer of your world and not merely the consumer of it.
+  - Think in terms of how you interact with the spaces around you.
+- Habits can be easier to change in a new environment.
+- Every habit should have a home - "One space, one use"
+
+## Secret to self-control
+
+- You can break a habit, but you're unlikely to forget it.
+  - Even if you put extra effort into self-control, you will eventually fail.
+- Cut a bad habits off at the source - reduce exposure to the cure that causes it (make it invisible)
+  - "if you can't get any work done, leave your phone in another room"
+
