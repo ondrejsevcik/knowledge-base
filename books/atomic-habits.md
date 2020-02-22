@@ -72,3 +72,12 @@
 - Cut a bad habits off at the source - reduce exposure to the cure that causes it (make it invisible)
   - "if you can't get any work done, leave your phone in another room"
 
+## The Role of Family and Friends in Shaping your Habits
+
+- We don't choose our earliest habits, we imitate them (school, family, ...).
+- Nothing sustains motivation better than belonging to the tribe.
+- The culture we live in determines which behaviors are attractive to us.
+- We tend to imitate the habits of three social groups 
+  1. the close (family and friends)
+  2. the many (the tribe)
+  3. the powerful (those with status and prestige)
