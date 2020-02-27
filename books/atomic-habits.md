@@ -81,3 +81,12 @@
   1. the close (family and friends)
   2. the many (the tribe)
   3. the powerful (those with status and prestige)
+
+# The 3rd Law - Make it Easy
+
+- "The best is enemy of the good"
+- Being in motion - you're planning and strategizing and learning
+- Being in action - this type of behavior will deliver an outcome
+- Focus on taking action, not planning
+- "The best way is to always stop when you are going good"
+- Commitment devices - choice you make in the present that locks in better behavior in the future
