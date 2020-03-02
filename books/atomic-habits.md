@@ -90,3 +90,14 @@
 - Focus on taking action, not planning
 - "The best way is to always stop when you are going good"
 - Commitment devices - choice you make in the present that locks in better behavior in the future
+
+## The Cardinal Rule of Behavior Change 
+
+- Pleasure teaches your brain that a behavior is worth remembering and repeating
+- The consequences of bad habits are delayed while the rewards are immediate
+  - Smoking might kill you in ten years, but it reduces stress now
+  - Most people will spend all day chasing quick hits of satisfaction
+- Use habit tracker - best way to measure progress
+  - Don't break the chain
+  - You're focused on progress rather than result
+  - Never miss twice - nobody is perfect, but missing twice is what makes difference between winners and loosers
