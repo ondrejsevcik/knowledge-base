@@ -91,7 +91,7 @@
 - "The best way is to always stop when you are going good"
 - Commitment devices - choice you make in the present that locks in better behavior in the future
 
-## The Cardinal Rule of Behavior Change 
+# The 4th Law - Make it satisfying 
 
 - Pleasure teaches your brain that a behavior is worth remembering and repeating
 - The consequences of bad habits are delayed while the rewards are immediate
