@@ -101,3 +101,21 @@
   - Don't break the chain
   - You're focused on progress rather than result
   - Never miss twice - nobody is perfect, but missing twice is what makes difference between winners and loosers
+- Habit contract - verbal or written agreement with a friend to keep yourself accountable
+  - We care what others think of us. Knowing that someone else is watching is powerful motivator.
+
+# Advanced tactics
+
+- For maximizing your odds, pick a right field of competition. Stick with natural inclination and abilities.
+- When you can't win by being better, win by being different.
+- Goldilocks Rule
+  - Human experience peak motivation when working on tasks that are right on the edge of their current abilities.
+  - Playing tenis against baby - boring, too easy. Playing agains Nadal - boring, too hard. Playing with a same skilled friend - fun, fun, fun.
+- Mastery requires practice
+  - but after a time, practice becomes boring
+  - you have to fall in love with boredom, if you only do what's exciting, you will never achieve consistency.
+  - The ability to keep going when work isn't exciting is what makes difference.
+- Once in a time review your habits
+- Happines is simply the absence of desire
+- Your actions reveal how badly you want something
+
