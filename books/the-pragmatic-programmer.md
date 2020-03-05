@@ -28,4 +28,5 @@
   - "I will get back to you" - take some time for more precise estimate
 - Keep knowledge in plain text (could be JSON, HTML, YAML, ...)
   - Can be manipulated and read by every tool/human
-- 
+- Achieve editor fluency
+
