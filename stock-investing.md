@@ -34,3 +34,15 @@
     - TODO
 - Payout Ratio
     - TODO
+
+## Example
+
+Stock Plzen
+
+- Zakladni kapital 260 000 000 Kc
+- Cisty zisk 240 000 000 Kc
+- Nominalni hodnota akcie 1000 Kc
+- Emise akcii = 260 000 000 / 1000 = 260 000 Ks akcii v obehu
+- EPS (cisty zisk na akcii) = 240 000 000 / 260 000 = 923 Kc
+- Cena akcie (aktualni) = 1150 Kc
+- P/E 1150 / 923 = 1,24 = vyrazne podhodnocena akcie 
