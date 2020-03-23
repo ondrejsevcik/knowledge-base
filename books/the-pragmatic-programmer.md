@@ -29,4 +29,9 @@
 - Keep knowledge in plain text (could be JSON, HTML, YAML, ...)
   - Can be manipulated and read by every tool/human
 - Achieve editor fluency
+- Always use version control
+- Fix the problem, not the blame
+  - doesn't matter whose fault it is, it is your problem
+
+
 
