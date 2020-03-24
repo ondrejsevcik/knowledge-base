@@ -32,6 +32,8 @@
 - Always use version control
 - Fix the problem, not the blame
   - doesn't matter whose fault it is, it is your problem
+- Keep a daybook
+  - a journal of what you worked on
 
 
 
