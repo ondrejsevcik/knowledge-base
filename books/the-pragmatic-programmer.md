@@ -34,6 +34,8 @@
   - doesn't matter whose fault it is, it is your problem
 - Keep a daybook
   - a journal of what you worked on
+- Perfect software doesn't exist
+  - It's better to accept this as a fact rather than wasting time and chasing this impossible dream.
 
 
 
