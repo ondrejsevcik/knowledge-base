@@ -38,6 +38,12 @@
   - It's better to accept this as a fact rather than wasting time and chasing this impossible dream.
 - Design by contract
   - Be strict in what you accept befor you begin and promise as little as possible in return.
-  - crash earily - provide better error messages / use assertions / types / language specific features
-
-
+- Crash early 
+  - the alternative is to work with corrupted data
+  - a dead program usually does less damage than corrupted one
+- Use assertions to prevent impossible
+  - whenever you think "this could never happen" - add an assertion on that
+  - Don't use assertions in place of real error handling
+  - Testing doesn't find all bugs. Keep assertions also in production code (unless they really are a performance issue)
+- Finish what you start
+  - Routine that allocates the resource should also free it
