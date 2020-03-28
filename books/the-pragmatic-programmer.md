@@ -36,6 +36,8 @@
   - a journal of what you worked on
 - Perfect software doesn't exist
   - It's better to accept this as a fact rather than wasting time and chasing this impossible dream.
-
+- Design by contract
+  - Be strict in what you accept befor you begin and promise as little as possible in return.
+  - crash earily - provide better error messages / use assertions / types / language specific features
 
 
