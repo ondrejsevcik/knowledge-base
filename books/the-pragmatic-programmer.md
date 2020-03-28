@@ -47,3 +47,6 @@
   - Testing doesn't find all bugs. Keep assertions also in production code (unless they really are a performance issue)
 - Finish what you start
   - Routine that allocates the resource should also free it
+- Take small steps - always!
+- Avoid fortune telling 
+  - don't design code for uncertain future - make your code replaceble or easy to throw away
