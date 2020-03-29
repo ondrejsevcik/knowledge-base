@@ -50,3 +50,9 @@
 - Take small steps - always!
 - Avoid fortune telling 
   - don't design code for uncertain future - make your code replaceble or easy to throw away
+- Tell, Don't ask
+- Don't chain method calls
+- Avoid global data
+  - If i'ts important enough to be global, wrap it in an API
+- Use reactive programming, streams and events to decouple code
+
