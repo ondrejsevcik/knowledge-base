@@ -55,4 +55,11 @@
 - Avoid global data
   - If i'ts important enough to be global, wrap it in an API
 - Use reactive programming, streams and events to decouple code
-
+- Preffer `|>` pipe style of programming
+  - loose coupling, no lingering state, less bugs
+- Don't pay inheritance tax
+  - alternatives are better - Iterfaces, delegation, mixins, traits
+  - Inheritance is rarely the answer
+- Configuration as a service
+  - Although static configuration is common, configuration as a service is better - can build configuration UI, configuration can change during runtime (no restart needed).
+- 
