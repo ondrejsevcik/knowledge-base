@@ -62,4 +62,7 @@
   - Inheritance is rarely the answer
 - Configuration as a service
   - Although static configuration is common, configuration as a service is better - can build configuration UI, configuration can change during runtime (no restart needed).
+- Concurrency
+  - Shared state is incorrect state
+  - Use Actors and Processes to manage concurrency
 - 
