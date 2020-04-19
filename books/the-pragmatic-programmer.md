@@ -65,4 +65,6 @@
 - Concurrency
   - Shared state is incorrect state
   - Use Actors and Processes to manage concurrency
+- Don't let existing code dictate future code
+  - All code can be replaced if it is no longer appropriate
 - 
