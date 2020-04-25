@@ -69,3 +69,13 @@
   - All code can be replaced if it is no longer appropriate
 - Name well; Rename when Needed
   - If you can't change the name of variable for some reason, fix it! Make renaming easy and do it often.
+- Maintain small stable teams
+  - ~10 people where everyone knows, trust and depend on each other
+  - fully functional - team that is able to deliver feature from planning to production (dev, design, db, documentation, ...)
+- Schedule your improvement/maintenance
+  - Old system maintenance
+  - Process reflection/refinement
+  - New tech explorations
+  - Learninig new skill
+- Do what warks, not what's fashionable
+  - Try it with a small team. If it works, expand, if not, abort (or keep the bits that work). 
