@@ -67,4 +67,5 @@
   - Use Actors and Processes to manage concurrency
 - Don't let existing code dictate future code
   - All code can be replaced if it is no longer appropriate
-- 
+- Name well; Rename when Needed
+  - If you can't change the name of variable for some reason, fix it! Make renaming easy and do it often.
