@@ -27,8 +27,7 @@
 - Shirt
 - Sunscreen ☀️
 - Camera 📸 + SD Card
-
-
+- Facemask
 
 ## Winter
 - Hat
@@ -40,7 +39,6 @@
 - Helmet
 - Ski poles
 - Camera
-
 
 ## Running
 - Hat
@@ -57,8 +55,6 @@
 - Trekking poles
 - Sweatband / Headband
 
-
-
 ## Hygiene
 - Shampoo
 - Soap
@@ -66,7 +62,6 @@
 - Toothpaste
 - Nail clip
 - Razor
-
 
 ## Jessie 🐶
 - Harness
