@@ -28,6 +28,7 @@
 - Sunscreen ☀️
 - Camera 📸 + SD Card
 - Facemask
+- Disinfection
 
 ## Winter
 - Hat
