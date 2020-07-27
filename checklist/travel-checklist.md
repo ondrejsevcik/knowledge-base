@@ -29,6 +29,7 @@
 - Camera 📸 + SD Card
 - Facemask
 - Disinfection
+- Cutlery
 
 ## Winter
 - Hat
