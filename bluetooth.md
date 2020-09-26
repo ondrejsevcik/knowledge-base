@@ -17,4 +17,13 @@
   - Point-to-point, Broadcast, Mesh network topologies
   - GATT (Generic attribute) profile
 
+## BLE GAP Roles
+
+A device can support multiple LE GAP roles (e.g. a mobile phone)
+
+- Broadcaster - send data only (no connection)
+- Observer - receive data only (no connection)
+- Peripheral - 1 to 1 connection
+- Central - 1 to X connections
+
 
