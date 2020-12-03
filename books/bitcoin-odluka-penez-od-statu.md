@@ -1,5 +1,7 @@
 # Bitcoin: Odluka penez od statu
 
+https://odlukapenez.cz/
+
 ## Rakouska skola
 
 - Rakouska skola je s bitcoinem casto sklonovana
@@ -14,10 +16,9 @@
 ## Bitcoin a casove preference
 
 - clovek zpravidla preferuje uspokojovat sve potreby drive nez pozdeji
-- 100 korun dnes vs. 100 korun za rok -> vsichni vezmou 100 korun dnes
-- 100 korun dnes vs. 120 korun za rok -> nekteri lidi si pockaji (maji nizke casove preference)
-
-- vetsina banka ma 2% inflacni cile (za rok)
+  - 100 korun dnes vs. 100 korun za rok -> vsichni vezmou 100 korun dnes
+  - 100 korun dnes vs. 120 korun za rok -> nekteri lidi si pockaji (maji nizke casove preference)
+- vetsina bank ma 2% inflacni cile (za rok)
 - behem 15 let snizi kupni silu o 25% (z 100tis tak mam pouze 75 tis)
 - to nuti lidi utracet nebo rizikove investovat - nema cenu drzet penize na uctu
 - inflace dopada na chudou vrstvu - nemaji prostretky se ji branit
