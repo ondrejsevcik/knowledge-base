@@ -15,3 +15,5 @@
 
 - When you do X, it makes me feel like Y - feels more genuine.
 - Ask for advice rather than feedback - people tend to talk more when they are asked for advice, plus it does not have a bad connotation.
+- Explain why you give such a feedback
+  - "I want you to improve in your work, I believe you can be great..." will be perceived better than just delivering dry feedback, but you have to mean it, don't be fake.
