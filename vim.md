@@ -2,7 +2,7 @@
 
 ## Websites
 
-- https://vim-cheat-sheet.now.sh
+- https://quickref.me/vim
 - [Colours in terminal](https://gist.github.com/XVilka/8346728)
 
 ## Commands
